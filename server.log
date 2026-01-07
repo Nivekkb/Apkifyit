@@ -1,0 +1,100 @@
+$ next dev --turbopack
+   ▲ Next.js 15.5.6 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://169.254.0.21:3000
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 1838ms
+ ○ Compiling / ...
+ ✓ Compiled / in 5.7s
+ GET / 200 in 6606ms
+ GET / 200 in 2984ms
+ ⚠ Cross origin request detected from curvy-taxis-say.lindy.site to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 643ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 1018ms
+ ✓ Compiled in 302ms
+ GET / 200 in 405ms
+ GET / 200 in 308ms
+ ✓ Compiled in 347ms
+ ✓ Compiled in 300ms
+ ✓ Compiled / in 71ms
+ GET / 200 in 262ms
+ GET / 200 in 305ms
+ ✓ Compiled in 1749ms
+ ✓ Compiled / in 47ms
+ GET / 200 in 192ms
+ GET / 200 in 361ms
+ GET / 200 in 300ms
+ ✓ Compiled in 624ms
+ GET / 200 in 416ms
+ GET / 200 in 233ms
+ GET / 200 in 1013ms
+ ✓ Compiled in 276ms
+ ⨯ ./app/page.tsx:305:48
+Parsing ecmascript source code failed
+[0m [90m 303 |[39m             variant[33m=[39m[32m"ghost"[39m
+ [90m 304 |[39m             size[33m=[39m[32m"icon"[39m
+[31m[1m>[22m[39m[90m 305 |[39m             onClick[33m=[39m{() [33m=>[39m setTheme(theme [33m===[39m [37m[41m[1m\[22m[49m[39m[32m"dark\" ? \"light\" : \"dark\")}[39m
+ [90m     |[39m                                                [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 306 |[39m             className[33m=[39m[32m"rounded-full hover:bg-accent transition-colors"[39m
+ [90m 307 |[39m           [33m>[39m
+ [90m 308 |[39m             {theme [33m===[39m [37m[41m[1m\[22m[49m[39m[32m"dark\" ? <Sun className=\"w-5 h-5\" /> : <Moon className=\"w-5 h-5\" />}[39m[0m
+
+Unterminated string constant
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 3.1s
+ GET / 500 in 3544ms
+ GET /favicon.ico 500 in 104ms
+ ⨯ ./app/page.tsx:305:48
+Parsing ecmascript source code failed
+[0m [90m 303 |[39m             variant[33m=[39m[32m"ghost"[39m
+ [90m 304 |[39m             size[33m=[39m[32m"icon"[39m
+[31m[1m>[22m[39m[90m 305 |[39m             onClick[33m=[39m{() [33m=>[39m setTheme(theme [33m===[39m [37m[41m[1m\[22m[49m[39m[32m"dark\" ? \"light\" : \"dark\")}[39m
+ [90m     |[39m                                                [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 306 |[39m             className[33m=[39m[32m"rounded-full hover:bg-accent transition-colors"[39m
+ [90m 307 |[39m           [33m>[39m
+ [90m 308 |[39m             {theme [33m===[39m [37m[41m[1m\[22m[49m[39m[32m"dark\" ? <Sun className=\"w-5 h-5\" /> : <Moon className=\"w-5 h-5\" />}[39m[0m
+
+Unterminated string constant
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+
+ GET / 500 in 192ms
+ GET /favicon.ico 500 in 148ms
+ ✓ Compiled in 494ms
+ ✓ Compiled / in 49ms
+ GET / 200 in 503ms
+ GET / 200 in 150ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 231ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 325ms
+ GET / 200 in 192ms
+ GET / 200 in 172ms
+ GET / 200 in 182ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 290ms
