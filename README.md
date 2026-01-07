@@ -13,12 +13,18 @@
 - **Modern UI**: Clean, "calm and competent" interface with smooth animations and Light/Dark mode support.
 - **Drag-and-Drop**: Intuitive file handling with a full-screen drop overlay.
 
-## 🔒 Strictly Offline & Private
+## 🔒 No keys ever leave local
+**Setup for zipaign does require temporary connection with api**
 
 Apkifyit is designed to be **completely self-contained**:
-1. **No External APIs**: Conversion is done entirely on the server using local binaries. Your files are never sent to third-party cloud services.
-2. **Auto-Cleanup**: Original ZIPs and generated APKs are deleted from the server's temporary storage immediately after conversion.
-3. **Local Execution**: The app can be run on a physical machine with zero internet connection.
+
+1. **No External APIs**: Conversions run locally using bundled or system binaries.
+Noothing is uploaded, nothing leaves your mahcine.
+
+2. **Temporary Storage**: FIles are only written to temporary directories during processing and are immediately
+removed after completion.
+
+3. **Works Offline**: The app can be run on a physical machine with zero internet connection.
 
 ## 🛠 Local Setup (Strictly Offline)
 
@@ -32,7 +38,7 @@ To run Apkifyit on your own machine:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <github.com/Nivekkb/apkifiyitl>
    cd apkifyit-app
    ```
 
