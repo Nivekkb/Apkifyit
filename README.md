@@ -2,7 +2,7 @@
 
 **Apkifyit** is a professional, high-performance tool designed for converting ZIP files into signed and aligned APKs. Built with a focus on privacy and security, all processing is handled locally within the environment.
 
-🔗 **Live Demo:** [https://curvy-taxis-say.lindy.site](https://curvy-taxis-say.lindy.site)
+🔗 **WEB UI Preview ** [https://curvy-taxis-say.lindy.site](https://curvy-taxis-say.lindy.site)
 
 ## ✨ Features
 

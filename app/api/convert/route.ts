@@ -33,7 +33,7 @@ export async function POST(req: NextRequest) {
     const outDir = join(tempDir, 'out');
     await mkdir(outDir, { recursive: true });
 
-    let command = `java -jar /home/code/uber-apk-signer.jar -a ${apkPath} -o ${outDir}`;
+    let command = `java -jar /home/oem/Desktop/apkifyituber-apk-signer.jar -a ${apkPath} -o ${outDir}`;
 
     if (skipZipAlign) {
       command += ' --skipZipAlign';
@@ -64,7 +64,7 @@ export async function POST(req: NextRequest) {
     // Extract SHA-256 hash for verification
     let sha256 = "Unknown";
     try {
-      const verifyOutput = await execPromise(`java -jar /home/code/uber-apk-signer.jar -y -a ${signedApkPath} --verbose`);
+      const verifyOutput = await execPromise(`java -jar /home/oem/Desktop/apkifyituber-apk-signer.jar -y -a ${signedApkPath} --verbose`);
       const match = verifyOutput.stdout.match(/SHA256: ([a-fA-F0-9: ]+)/);
       if (match) sha256 = match[1].trim();
     } catch (e) {
