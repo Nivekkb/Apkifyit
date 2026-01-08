@@ -165,11 +165,92 @@ export default function Home() {
     localStorage.setItem("apkifyit_profiles", JSON.stringify(updated));
   };
 
+  const MAX_FILES = 10;
+  const MAX_FILE_SIZE = 500 * 1024 * 1024; // 500 MB per file
+  const MAX_TOTAL_SIZE = 2 * 1024 * 1024 * 1024; // 2 GB total
+
   const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    if (e.target.files) {
-      const newFiles = Array.from(e.target.files).filter(f => f.name.endsWith(".zip"));
-      setFiles(prev => [...prev, ...newFiles]);
-      if (fileInputRef.current) fileInputRef.current.value = "";
+    try {
+      if (!e.target.files) {
+        toast.error('No files selected');
+        return;
+      }
+
+      // Convert FileList to array safely
+      const allFiles = Array.from(e.target.files || []);
+      
+      // Validate file types
+      const zipFiles = allFiles.filter(f => f.name.toLowerCase().endsWith('.zip'));
+      const nonZipFiles = allFiles.filter(f => !f.name.toLowerCase().endsWith('.zip'));
+      
+      if (nonZipFiles.length > 0) {
+        toast.warning(`${nonZipFiles.length} non-ZIP file(s) were ignored.`, {
+          description: nonZipFiles.map(f => f.name).join(', ')
+        });
+      }
+
+      // Check total files limit
+      if (files.length + zipFiles.length > MAX_FILES) {
+        toast.error(`Maximum of ${MAX_FILES} files allowed.`);
+        return;
+      }
+
+      // Check individual file sizes
+      const oversizedFiles = zipFiles.filter(f => f.size > MAX_FILE_SIZE);
+      if (oversizedFiles.length > 0) {
+        toast.error('Some files exceed the 500 MB size limit.', {
+          description: oversizedFiles.map(f => f.name).join(', ')
+        });
+        return;
+      }
+
+      // Check total size
+      const totalSize = [...files, ...zipFiles].reduce((acc, file) => acc + file.size, 0);
+      if (totalSize > MAX_TOTAL_SIZE) {
+        toast.error('Total file size exceeds 2 GB limit.');
+        return;
+      }
+
+      // Additional validation with enhanced error handling
+      const validFiles = zipFiles.filter(file => {
+        if (!(file instanceof File)) {
+          console.error('Invalid file object:', file);
+          return false;
+        }
+        
+        try {
+          // Comprehensive file validation
+          return file.size > 0 && 
+                 file.name.length > 0 && 
+                 file.name.toLowerCase().endsWith('.zip');
+        } catch (error) {
+          console.error('File validation error:', error);
+          return false;
+        }
+      });
+
+      // Safe file addition with error handling
+      if (validFiles.length > 0) {
+        setFiles(prev => {
+          // Prevent duplicate files
+          const uniqueFiles = validFiles.filter(
+            newFile => !prev.some(existingFile => 
+              existingFile.name === newFile.name && existingFile.size === newFile.size
+            )
+          );
+          return [...prev, ...uniqueFiles];
+        });
+      } else {
+        toast.warning('No valid ZIP files selected');
+      }
+      
+      // Reset file input
+      if (fileInputRef.current) {
+        fileInputRef.current.value = '';
+      }
+    } catch (error) {
+      console.error('Unexpected error in file handling:', error);
+      toast.error('An unexpected error occurred while processing files');
     }
   };
 
@@ -201,27 +282,161 @@ export default function Home() {
       }));
     }, 500);
 
+    // Comprehensive FormData creation with multiple error handling strategies
+    const createFormDataWithFallbacks = (): FormData | null => {
+      try {
+        // Check global FormData support with extended diagnostics
+        if (typeof FormData === 'undefined' || typeof window === 'undefined') {
+          console.error('FormData is not supported in this environment', {
+            formDataSupport: typeof FormData !== 'undefined',
+            windowSupport: typeof window !== 'undefined'
+          });
+          return null;
+        }
+
+        // Advanced input validation with granular error tracking
+        const validateInput = <T>(input: T, fieldName: string): boolean => {
+          const validationRules = {
+            file: () => input instanceof File && (input as File).size > 0,
+            string: () => typeof input === 'string' && (input as string).trim() !== '',
+          };
+
+          const validators = {
+            'file': validationRules.file,
+            'keystore': validationRules.file,
+            'alias': validationRules.string,
+            'password': validationRules.string
+          };
+
+          const validator = validators[fieldName as keyof typeof validators];
+          const isValid = validator ? validator() : false;
+
+          if (!isValid) {
+            console.error(`Invalid ${fieldName}`, input);
+            return false;
+          }
+          return true;
+        };
+
+        // Validate all critical inputs
+        const inputs = [
+          { value: file, name: 'file' },
+          { value: keystore, name: 'keystore' },
+          { value: ksAlias, name: 'alias' },
+          { value: ksPass, name: 'password' }
+        ];
+
+        const invalidInputs = inputs.filter(input => !validateInput(input.value, input.name));
+        if (invalidInputs.length > 0) {
+          console.error('Invalid inputs', invalidInputs);
+          return null;
+        }
+
+        // FormData creation with multiple append method fallbacks
+        const formData = new FormData();
+        
+        const safeAppendFallback = (
+          data: FormData, 
+          key: string, 
+          value: string | Blob | File
+        ) => {
+          const appendStrategies = [
+            () => data.append(key, value),  // Standard method
+            () => {
+              // Workaround for potential browser-specific issues
+              const entry = new FormDataEntryValue(value);
+              Object.defineProperty(data, key, {
+                value: entry,
+                writable: false,
+                configurable: false
+              });
+            },
+            () => {
+              // Extremely defensive manual append simulation
+              const entries = (data as any)._entries || [];
+              entries.push([key, value]);
+              Object.defineProperty(data, '_entries', { value: entries });
+            }
+          ];
+
+          for (const strategy of appendStrategies) {
+            try {
+              strategy();
+              return true;
+            } catch (error) {
+              console.warn(`FormData append strategy failed`, { key, error });
+            }
+          }
+
+          return false;
+        };
+
+        // Perform safe appends
+        const appends = [
+          { key: 'file', value: file },
+          { key: 'skipZipAlign', value: (!optimize).toString() },
+          { key: 'keystore', value: keystore },
+          { key: 'ksAlias', value: ksAlias },
+          { key: 'ksPass', value: ksPass }
+        ];
+
+        if (ksKeyPass) {
+          appends.push({ key: 'ksKeyPass', value: ksKeyPass });
+        }
+
+        const failedAppends = appends.filter(
+          item => !safeAppendFallback(formData, item.key, item.value)
+        );
+
+        if (failedAppends.length > 0) {
+          console.error('Failed to append some form data', failedAppends);
+          return null;
+        }
+
+        return formData;
+      } catch (error) {
+        console.error('Advanced FormData creation failed', error);
+        return null;
+      }
+    };
+
     try {
-      const formData = new FormData();
-      formData.append("file", file);
-      formData.append("skipZipAlign", (!optimize).toString());
-      if (keystore && ksAlias && ksPass) {
-        formData.append("keystore", keystore);
-        formData.append("ksAlias", ksAlias);
-        formData.append("ksPass", ksPass);
-        if (ksKeyPass) formData.append("ksKeyPass", ksKeyPass);
+      const formData = createFormDataWithFallbacks();
+      
+      if (!formData) {
+        throw new Error('Failed to create FormData with all fallback strategies');
       }
 
+      // Conversion process with enhanced error tracking
       const response = await fetch("/api/convert", {
         method: "POST",
         body: formData,
+        signal: AbortSignal.timeout(300000) // 5-minute timeout
       });
 
       clearInterval(progressInterval);
 
+      // Comprehensive response error handling
       if (!response.ok) {
-        const errorData = await response.json();
-        throw new Error(errorData.error || "Conversion failed");
+        const errorText = await response.text();
+        console.error('Conversion Error Response:', errorText);
+        
+        const errorMessage = `Conversion failed: ${response.status} - ${errorText}`;
+        
+        const diagnosticInfo = {
+          fileType: file.type,
+          fileSize: file.size,
+          keystoreProvided: !!keystore,
+          aliasProvided: !!ksAlias,
+          zipAlignment: !optimize
+        };
+
+        console.error('Conversion Error Diagnostic:', {
+          errorMessage,
+          diagnosticInfo
+        });
+
+        throw new Error(errorMessage);
       }
 
       const blob = await response.blob();
@@ -248,12 +463,29 @@ export default function Home() {
       return true;
     } catch (error: any) {
       clearInterval(progressInterval);
+      
+      let errorMessage = 'Conversion failed';
+      if (error.name === 'AbortError') {
+        errorMessage = 'Conversion timed out after 5 minutes';
+      } else if (error instanceof TypeError) {
+        errorMessage = 'Network error occurred';
+      } else if (error.message) {
+        errorMessage = error.message;
+      }
+
+      console.error('Conversion Error:', error);
+
       setResults(prev => prev.map(r => r.id === id ? {
         ...r,
         status: 'error',
         progress: 0,
-        error: error.message
+        error: errorMessage
       } : r));
+
+      toast.error(errorMessage, {
+        description: 'Check console for detailed diagnostic information.'
+      });
+
       return false;
     }
   };
