@@ -2,7 +2,6 @@
 
 **DroidForge Studio** is a professional, high-performance platform for turning DroidForge Studio bundles into signed and aligned APKs. It can compile source bundles into APKs (including WebView-based apps) when the Android SDK + Gradle are installed. Built with a focus on privacy and security, all processing is handled locally within the environment.
 
-🔗 **WEB UI Preview ** [https://curvy-taxis-say.lindy.site](https://curvy-taxis-say.lindy.site)
 
 ## ✨ Features
 
