@@ -1,0 +1,2276 @@
+Signature-Version: 1.0
+Created-By: 17.0.6 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: TEhegrv4A2tOR/fWDGwUHHGU4m8HfXICZnXMjqb6Hro=
+SHA-256-Digest-Manifest-Main-Attributes: I6ouMRqCkOK5/WCxwolwVikZcSYDELZ
+ BGhywzMFPFTk=
+
+Name: com/android/apksig/util/DataSink.class
+SHA-256-Digest: m+y63KAQvKbBJU3M/OW/wweCMz+rZ/R9a7TZPLg2Ssc=
+
+Name: org/conscrypt/Internal.class
+SHA-256-Digest: uPswqaryxgbVuSVs9SmM8x7Nb57Qoo8y/YEkVv8QyW4=
+
+Name: at/favre/lib/bytes/ReadOnlyBytes$Factory.class
+SHA-256-Digest: LZYjcuqyxNRjvtUkFNl08QCi4KeJc0KQCzSSY8Amvuo=
+
+Name: com/android/apksig/internal/jar/ManifestWriter.class
+SHA-256-Digest: ZujMXSs7C0AZc9HZZu8yR2yCrtgeKub/MOz0qhLZgzM=
+
+Name: org/conscrypt/ConscryptEngineSocket.class
+SHA-256-Digest: e7Gt3AzMkksjUmkTy3agkLHNk9/Hum5B6Zjj0SuUYQs=
+
+Name: org/conscrypt/SSLParametersImpl$AliasChooser.class
+SHA-256-Digest: LHbjcJ2OmLTWudKa3xHXgTT51fEA4XIzvcSV2SkZjWQ=
+
+Name: com/android/apksig/internal/pkcs7/AlgorithmIdentifier.class
+SHA-256-Digest: L+ERweOp6f+LRoSFW7JinrsyN2DR8mNddI4vYQPV9Ng=
+
+Name: org/conscrypt/OAEPParameters.class
+SHA-256-Digest: aOfTX4fzpkmtuWzt3uHIB7w+6rhS/za/MEpe555ncmk=
+
+Name: org/conscrypt/OpenSSLXDHKeyPairGenerator.class
+SHA-256-Digest: CBsCG90IRkXXHxkzPpgVN9i7rocnMJjE2Rj69uuHWuM=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES$ECB$PKCS5Padding.class
+SHA-256-Digest: 9sMwW04/Is7+8ksSc7OL9J6hiJtSR17NGZLY9scpwEU=
+
+Name: com/android/apksigner/help.txt
+SHA-256-Digest: 579xCILgNT6GaW9Fc2XnSGTNzW2CjzPUwx16EU+SbOc=
+
+Name: org/conscrypt/SSLNullSession$1.class
+SHA-256-Digest: 9xyJSGdz22z6t7sXKzOERX5ofT8kNbbHFouIJv+ujyw=
+
+Name: org/conscrypt/ConscryptHostnameVerifier.class
+SHA-256-Digest: nrSDbML99ZRpVXcg4rN89mfm/mhOSOwuPRS7LOfaerE=
+
+Name: com/android/apksig/internal/apk/SignatureInfo.class
+SHA-256-Digest: GREY0PxNieI4GecmeN7PyAzc1YDG9MvUcmwIsiXfKDQ=
+
+Name: org/apache/commons/cli/BasicParser.class
+SHA-256-Digest: NxASbMZEVmO/x852MZA5+KsfaJF7HPAcER1MR+pbP1g=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_128$CBC$PKCS5Padding.class
+SHA-256-Digest: TBf16IY4xkBv4Q7hGt9r4BXGMtiFd1pgCP4xsD3IIfI=
+
+Name: org/conscrypt/ct/Serialization.class
+SHA-256-Digest: P/FlmVqULfI6oAi3oczCBsMvJxN+tJofULgefvHu7F8=
+
+Name: org/conscrypt/OpenSSLSignature$SHA1RSAPSS.class
+SHA-256-Digest: hOoCxlvUk0ljBTC3kqbW+BH70wmAW8bxZiDJJ0X1KMY=
+
+Name: com/android/apksig/internal/apk/AndroidBinXmlParser$ResourceMap.cl
+ ass
+SHA-256-Digest: +hOuJ0UmYaMFqJCR/c6HSnhhjnZyu1vtgUHNW4ziouU=
+
+Name: com/android/apksig/internal/apk/AndroidBinXmlParser$XmlParserExcep
+ tion.class
+SHA-256-Digest: IAeLkfdILxqMQflZ//EJ9unfhajVP//i67W5gTvQ7wA=
+
+Name: at/favre/lib/bytes/BytesTransformers.class
+SHA-256-Digest: q0V7ULvoxZhc8OaGFsVk7JAKG1/3K6dSTC1HoAYap1g=
+
+Name: org/apache/commons/cli/DefaultParser$Builder.class
+SHA-256-Digest: 7RZXVsLr9CN1uJcZikzZUicQzeEWUOrLg7QOKOQ9jSY=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES.class
+SHA-256-Digest: r7j+wpS+QVJ7ho27Sx8jI0oY65nMbsamzCXnyo3HXv4=
+
+Name: org/conscrypt/FileClientSessionCache$Impl.class
+SHA-256-Digest: PP/5D81qlqbCxHKagBLjOCQlbrTWraHCfYZkG49spIQ=
+
+Name: org/conscrypt/NativeLibraryLoader.class
+SHA-256-Digest: ygPoU/yLQQ4RaC9JkGEemS4/ypYatLpN6C0j/ho128o=
+
+Name: com/android/apksig/SigningCertificateLineage$SignerCapabilities.cl
+ ass
+SHA-256-Digest: 5ptMfWEf10ZiqXTAib2ztWC6q0xCmSNjccft7RtnkaE=
+
+Name: at/favre/tools/apksigner/ui/CLIParser.class
+SHA-256-Digest: bWiXpHXQv00/x1sqVC9aZ0n1Toy50sT/KPqm3hyj47w=
+
+Name: com/android/apksig/apk/ApkUtilsLite.class
+SHA-256-Digest: 35WZnrT0siOt9QnBE3NXvznR3uFK/1Xfq89aM+5jbmY=
+
+Name: com/android/apksig/internal/pkcs7/AlgorithmIdentifier$1.class
+SHA-256-Digest: ue6lzpZ5pAsCdwifWz/z9LcwRBrZOTlYxZVkLXtUtLc=
+
+Name: org/conscrypt/ConscryptEngineSocket$3.class
+SHA-256-Digest: jVPdzKDTAIBe/G8zTy5Zbl/3jJGuxsFdvVZjwOKRjzY=
+
+Name: META-INF/maven/at.favre.tools/uber-apk-signer/pom.xml
+SHA-256-Digest: Jg/TmB7L4W8hwUWz5sTO80Ro0FaPy/4f7SQ22VWyb6g=
+
+Name: com/android/apksig/ApkSignerEngine$InspectJarEntryRequest.class
+SHA-256-Digest: sybbfC/NyW8f6GFN2k3PZYIijAYOvLWarE2ljKYLr24=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$Result$Signer
+ Info$ContentDigest.class
+SHA-256-Digest: KgQSFjFXDQVCALrfuMWCgHcTAnJdPIjCRycijYOYTBE=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$Result$Signer
+ Info.class
+SHA-256-Digest: EwNdFAhTlsHgzIL0uPpuOIkB41B5/yMwB0yWWIOI8Ek=
+
+Name: com/android/apksig/ApkSigner$SignerConfig.class
+SHA-256-Digest: tKgJQWRThkiH1o2uCKPm288ZCu4sIWxMYsvqLl6Rht0=
+
+Name: org/conscrypt/OpenSSLX25519PublicKey.class
+SHA-256-Digest: wi1G+N1mhnBlb4ldKp3SQ9Xah9WAKrfy2JIvyNE3pYY=
+
+Name: com/android/apksig/internal/util/X509CertificateUtils.class
+SHA-256-Digest: D4OCDNo3UbPgbVprl3Zh4V6H4mBZp156TbT2aDCaxdg=
+
+Name: com/android/apksig/SigningCertificateLineage.class
+SHA-256-Digest: PBf9x3P6KD/Z1R65lcrYdqiKcYFfmqQfPgqvfZii7lY=
+
+Name: org/conscrypt/NativeSsl$1.class
+SHA-256-Digest: XwMw2duZA5kZ2B30Na95GK1bcJ3F/UuoeLfS1sVOnmg=
+
+Name: com/android/apksig/apk/CodenameMinSdkVersionException.class
+SHA-256-Digest: YZRJ1cg2OngS4AcBsfJq7Dpg5oaOqWi5Jk0WeMU+d/g=
+
+Name: com/android/apksig/SourceStampVerifier$Result.class
+SHA-256-Digest: cfxzdteUw1omHEGnV0SZfPYMi8nB6/BIMPAwm5DkIQQ=
+
+Name: org/conscrypt/OpenSSLX509CertificateFactory$1.class
+SHA-256-Digest: Xiy6WQnECmJqCXaUQIBXE/vuSXgkV0hgjfeF0ouI84k=
+
+Name: org/conscrypt/ConscryptFileDescriptorSocket$2.class
+SHA-256-Digest: sYTtYp2PT/mrtt8TnYExl9LldmsHHh6AEMZ4g8cjVNU=
+
+Name: com/android/apksig/internal/apk/v3/V3SchemeSigner$1.class
+SHA-256-Digest: z5Oavs5Siwz1AzbP56TeN9cYHcEaF4UDH/7rkBBOlGo=
+
+Name: org/conscrypt/KeyGeneratorImpl$HmacSHA1.class
+SHA-256-Digest: cpiodf4f6irFpMVWeGkdWfzSLtX+WoKzYl4+52iy850=
+
+Name: com/android/apksig/internal/apk/v4/V4SchemeSigner$1.class
+SHA-256-Digest: pW/bBTfH96dN9+ptOz43e08qzbK8aSZSdZtgwfCeCTM=
+
+Name: com/android/apksig/internal/apk/v4/V4Signature$SigningInfo.class
+SHA-256-Digest: 5LhJtT2w5rFxgK+h/mdd0MiYL0HfR6U6AnGuFVElCSc=
+
+Name: org/conscrypt/ConscryptEngine$2.class
+SHA-256-Digest: 9Y6I8wkbOXNsMlaIaP7izaJh1fV7ReRuw6btn4kCq/A=
+
+Name: at/favre/lib/bytes/BytesFactory.class
+SHA-256-Digest: qXP0kZaPXgv7CBV+kP70UaOxENOpmSN811KsWKzarI0=
+
+Name: com/android/apksig/internal/apk/v4/V4Signature$SigningInfos.class
+SHA-256-Digest: D+jlhk67hY68srFhfqkymfol3xajNH+FyLGyNagkeJ8=
+
+Name: org/conscrypt/ct/CTLogInfo.class
+SHA-256-Digest: sDw1bAl0Kzl1rvyQLhGhOIGpV1x47pEaN/HMm0zu6Zo=
+
+Name: at/favre/lib/bytes/BytesTransformer$ShiftTransformer$Type.class
+SHA-256-Digest: 1loIgYCL9PL+2HYv4qpIAV/ykUSl7fVjdp27vJSYFeM=
+
+Name: org/conscrypt/ct/CertificateEntry.class
+SHA-256-Digest: Gg5uKlWabVowvaXKn7i7FvVxDnEHPTVQBOUo/PdSKHE=
+
+Name: org/conscrypt/EvpMdRef$SHA224.class
+SHA-256-Digest: 4+mDdTQZjKAEVlrcR8jfeCTooOQBVtGjeuVQFMeBaM0=
+
+Name: at/favre/tools/apksigner/ui/Arg.class
+SHA-256-Digest: Vhtz11U+IluZQdW30Pl3YAjJpeP5KcSAj4byoXMAzZw=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_256$ECB$PKCS5Padding.class
+SHA-256-Digest: xyn8t7aECstlQ36GwzgofsBVabkpKTGleA5a/LQvwEE=
+
+Name: com/android/apksig/apk/ApkUtils$CodenamesLazyInitializer$ByFirstCo
+ mparator.class
+SHA-256-Digest: /1eWkyb8oSxjzmmTUJRJmSukFivXypsy5luJfb76Qyw=
+
+Name: com/android/apksig/internal/apk/ApkSigResult.class
+SHA-256-Digest: mNEXo97UGMyNo8ePMUquXI238XNeJ3slb6QF7/jopJ0=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_256$CBC$NoPadding.class
+SHA-256-Digest: 3rI6G9niRdjLWYa8DMUisex1119gOK3QaRu9UgRDBfo=
+
+Name: org/conscrypt/PSSParameters.class
+SHA-256-Digest: TRzHT/z8KzfvDaR9LjJHY8vlFaemU9tzxLzf69Zbqak=
+
+Name: org/conscrypt/ct/CertificateEntry$LogEntryType.class
+SHA-256-Digest: HXrDHbkOeY8K5uB/mrne/BdBqNxyupyyQRI2HMjM38o=
+
+Name: com/android/apksig/ApkVerifier$Result$V2SchemeSignerInfo.class
+SHA-256-Digest: FzbnLCsl3dL+3ARoCcNpyzFJz7gxhjvSI3pK2TTUaU4=
+
+Name: com/android/apksig/util/RunnablesExecutor.class
+SHA-256-Digest: 2nesHgon6cihfcv7+0inFfvezOvL7m5KII/IYrE7rG0=
+
+Name: org/conscrypt/Conscrypt$Version.class
+SHA-256-Digest: 0fxRJT3kGTYq5udT4fDKQnv+F2BuzTNTh2jLfWznrEE=
+
+Name: at/favre/lib/bytes/BytesTransformers$ChecksumTransformer.class
+SHA-256-Digest: uJyvsNBqZc5+9849Gt+0l33UYrRz7kl4ZV7rQ7jEvQQ=
+
+Name: com/android/apksig/internal/asn1/Asn1DerEncoder$ByteArrayLexicogra
+ phicComparator.class
+SHA-256-Digest: ca4QUGYYewhL1ynlN/XUJTZyrRbKYq0bY2UX8kslcAs=
+
+Name: org/conscrypt/KeyGeneratorImpl$HmacSHA256.class
+SHA-256-Digest: 0n2GR/pBS1HLnYfbLyMHbkrk/NZA70rR+otl8SxLZTU=
+
+Name: com/android/apksig/internal/asn1/ber/InputStreamBerDataValueReader
+ $1.class
+SHA-256-Digest: 4eXMq0N+5XlFwA9B6Q6reTkYwb5D11SmztuF2xueCgY=
+
+Name: com/android/apksig/internal/apk/stamp/SourceStampCertificateLineag
+ e$SigningCertificateNode.class
+SHA-256-Digest: kSzwm9O9g2ByBYhCOpyWmlyGApsmbP45cx7KDWeSaiU=
+
+Name: com/android/apksig/internal/util/ByteBufferUtils.class
+SHA-256-Digest: 1rJ5BA23yRg1p8uNRFEKuNFqkUwWnBOMz3kR92QovM4=
+
+Name: org/conscrypt/OpenSSLX509CertificateFactory$ParsingException.class
+SHA-256-Digest: BDl5XGI5awhEXirutrplVllXeQ2vpNx1SWPmO+2YK2g=
+
+Name: at/favre/lib/bytes/Bytes$Factory.class
+SHA-256-Digest: y7KhmJ2fJR53hqaGe/g8nDRnjML80vJ78a/iWDbSxnE=
+
+Name: org/conscrypt/SSLNullSession$DefaultHolder.class
+SHA-256-Digest: LswWXGF7onm7v81v5cAQg3IRZ4WxG2VK6I7YJxNRhw8=
+
+Name: at/favre/lib/bytes/BytesValidator$Logical$Operator.class
+SHA-256-Digest: 53k0RPjtjfqV7xcgvXrEIJhjetkLSDJFCFlwDcZxycM=
+
+Name: org/conscrypt/ct/VerifiedSCT.class
+SHA-256-Digest: Q9ZQkhWWUoLj/oUkd00vFHEm6O0cSApnhdBtHzGBLlg=
+
+Name: com/android/apksig/util/DataSource.class
+SHA-256-Digest: hm92W2J6zbQf8TmW0ay9i2tGJXN1vg+rIDvYCZUikqM=
+
+Name: at/favre/tools/apksigner/signing/AndroidApkSignerVerify$CertInfo.c
+ lass
+SHA-256-Digest: 1dBlgaBgco+J3HUGn0qpy4P7EiHhJTO5Mz2lM949NP0=
+
+Name: com/android/apksig/internal/apk/ContentDigestAlgorithm.class
+SHA-256-Digest: 8En4+U/nQW4qi0xwqbpsIuLGOl7vXx+omG0PzsmQyxE=
+
+Name: org/conscrypt/OpenSSLMac$HmacSHA384.class
+SHA-256-Digest: oqZfrJKG0UgJ2lDf+DIUab8GOOqdkvpMFxCOYEKIgHU=
+
+Name: com/android/apksig/internal/asn1/Asn1Tagging.class
+SHA-256-Digest: MwRCU5DDo0dULiVn0sjFTjo1rFeCBt7J4Up4UuFyjuE=
+
+Name: at/favre/lib/bytes/Util$Converter.class
+SHA-256-Digest: zESFJ8sIH9cZ3sgZE8KcjSjoOcIpEMmhiXyrrh2ur/k=
+
+Name: org/conscrypt/OpenSSLSignature.class
+SHA-256-Digest: YQJrcpLbPr8FAU/goBU9/jQd42xmD85CePobw8e8gnE=
+
+Name: org/conscrypt/SSLUtils$EngineStates.class
+SHA-256-Digest: XtyGEEHFndjY5lVbG/ZkvxaprLUJf5NAjXhJly2mweA=
+
+Name: org/conscrypt/OpenSSLX509CRLEntry.class
+SHA-256-Digest: koutvZsBPihMFiep13nhZAYnvsqCdvf9wMMQiYqikS0=
+
+Name: org/conscrypt/NativeLibraryLoader$1.class
+SHA-256-Digest: KUTG9sZ85gPEB8642djJFsJFhumtenb2Z0bGWymbyBE=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$SignerConfig.
+ class
+SHA-256-Digest: 90tRaBdPN8qB8j9d2pBggT1E7h6D+msUF6tPCt+sonc=
+
+Name: at/favre/lib/bytes/MutableBytes$1.class
+SHA-256-Digest: o2aH2QcgBr0+y39XG+0ZIuXIu6PT2IEyVnPrWLAuwuU=
+
+Name: org/conscrypt/ConscryptEngine.class
+SHA-256-Digest: gwi/LosBmmFuUVJ7RuQjR9BdeuNT8oWXxmhLP3UiZdY=
+
+Name: org/conscrypt/ConscryptFileDescriptorSocket.class
+SHA-256-Digest: 9NaH9MTBEoLfHahi7IpAkCcSScrGC0Yf49px2jBUlkI=
+
+Name: org/conscrypt/OpenSSLCipher$Padding.class
+SHA-256-Digest: 1TkdwC/7JPVjq7eEzpN7GsejLcl3dDatAJq+TcqiSns=
+
+Name: META-INF/maven/at.favre.lib/bytes/pom.properties
+SHA-256-Digest: MOYlu/5bGCD7zjb+Nr7ikPflGh7FvxkkPrLchn3WIRc=
+
+Name: com/android/apksig/internal/apk/stamp/V1SourceStampSigner$SourceSt
+ ampBlock.class
+SHA-256-Digest: VA6w3Fp7iujc/gb8FzwILJQAtH05HF7wUWow6+M6yTA=
+
+Name: at/favre/lib/bytes/BytesTransformers$HmacTransformer.class
+SHA-256-Digest: h2FGbuNyZZyjeGN/BNry+W5y9l168N9xeFDUtlITC6o=
+
+Name: org/conscrypt/ExperimentalApi.class
+SHA-256-Digest: k77zpN7NB1EoxkgqxVwhwn6JYULRm+twzQtoXksOnd4=
+
+Name: org/conscrypt/OpenSSLRSAPrivateCrtKey.class
+SHA-256-Digest: pb7+Iudm2gCPKPvkRweBgq1erBJfCtx1bJBVjRze3MI=
+
+Name: com/android/apksig/zip/ZipFormatException.class
+SHA-256-Digest: hzQKT1AtZKgGvawLSZ2WixFOOyt8vKnVwdu9oiaWHgs=
+
+Name: com/android/apksigner/help_lineage.txt
+SHA-256-Digest: shahWJwCI2zlZlVxwcK9dVwbtqg+o1qbTwsH9l0sGZU=
+
+Name: org/conscrypt/OpenSSLECPointContext.class
+SHA-256-Digest: mhM/Z+f7H5Shi/yy+prVDLobaWDRSXZ7hmum1klhZmI=
+
+Name: com/android/apksig/internal/apk/stamp/V1SourceStampVerifier.class
+SHA-256-Digest: cOem6CtwirjcnPwdEMMD4o59AidiPNh/uECsSkZdo6Y=
+
+Name: com/android/apksig/internal/util/ByteBufferDataSource.class
+SHA-256-Digest: Xq9f0IE8wzIxYVjTiL7XWumKlJKzAvZUKuu9EJZ3I7o=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$1.class
+SHA-256-Digest: KY+ij+tIzbk0Rq1rpk5GRZgXfrXiT4VbN+gY/kVArx8=
+
+Name: at/favre/lib/bytes/BytesTransformer$ConcatTransformer.class
+SHA-256-Digest: VazcYs9OpUdWOugB8ucJm2ghLC0b7eJ++rvhzO0p4/U=
+
+Name: com/android/apksigner/help_verify.txt
+SHA-256-Digest: LBoRM9U1cXv1A4F9vfzxMi/FFBLUTOI9OO8Rix2yUHE=
+
+Name: org/conscrypt/OpenSSLSignature$SHA224RSAPSS.class
+SHA-256-Digest: ut221U3Z9tgFAGWstjDNp75w+x1Cq7R1146xsiaHnJk=
+
+Name: org/conscrypt/DefaultSSLContextImpl.class
+SHA-256-Digest: TxS/E6MmETLJd6xUYW0eMxItV2YTs3mU86qmPRlKAT0=
+
+Name: org/conscrypt/OpenSSLAeadCipherAES$GCM.class
+SHA-256-Digest: S20oG7N9lpTvcHIblv3M4W2LZ7IjbZisyQMBnH004DU=
+
+Name: org/conscrypt/OpenSSLECPublicKey.class
+SHA-256-Digest: 5YYvEkfXpxhWXUFa7Q2L/MoNnWXRkkuBr2aDeYB9r+Y=
+
+Name: org/conscrypt/OpenSSLMessageDigestJDK$SHA256.class
+SHA-256-Digest: Lsq67dAdUcvlpPxqKFV8co/Mg+paB2zdh92TUIJIWOA=
+
+Name: com/android/apksig/internal/apk/stamp/V2SourceStampSigner$1.class
+SHA-256-Digest: qSBoojpTEAiSV+XxmnVyK0uP7S7yjm53QMsbvfnX+Hk=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_256$CBC.class
+SHA-256-Digest: esH3Rz7cvpV+f5j21FmsUG7ByDxA5vdHpTVMxSxARro=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeSigner$1.class
+SHA-256-Digest: ezZey87qah863HTp2SB+aGzF+729TuoJdYo/IiaCQHI=
+
+Name: org/conscrypt/OpenSSLX509CRL.class
+SHA-256-Digest: bU3Pg4tsZxniZsKN7+hdH+3NAaTUxfGxhi8kfV37+/U=
+
+Name: org/conscrypt/ct/SignedCertificateTimestamp$Origin.class
+SHA-256-Digest: srYG0v6kbinN5j/f18qOCvvM4uriTPEjnZZi2ZqTWWU=
+
+Name: at/favre/lib/bytes/BytesValidator$IdenticalContent.class
+SHA-256-Digest: w+KoJWv723rxrCYIqRH1Cm43BWpZycUr8bsIlAtF5lo=
+
+Name: debug.keystore
+SHA-256-Digest: HvomQ+2DoMYH/sNGz9YPEnaOhy+t53Gty323/ip8CYE=
+
+Name: com/android/apksig/ApkVerifier$1.class
+SHA-256-Digest: 8rx9DCROXrU4KMGQqhvCjmn9EOOQ7pXa3jYqAJbHUjY=
+
+Name: com/android/apksig/internal/apk/NoApkSupportedSignaturesException.
+ class
+SHA-256-Digest: PygVdyi/j3iCxwOtPFHzLdNy4RYfHFKBfs0MZW8Whpk=
+
+Name: org/conscrypt/OpenSSLRSAKeyPairGenerator.class
+SHA-256-Digest: 3Xuya378MzF+sWWWjQW+RGt9WkNKcJo34CV1pvL2K/g=
+
+Name: org/apache/commons/cli/MissingOptionException.class
+SHA-256-Digest: 0n9pLd/670O27y4zg8rCvSOjo6XjvoGURaqrypUqcZY=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_128.class
+SHA-256-Digest: 6swoqWSAJVQI3Iuzar4y7DPnBZdANyD2WfYyDz6SUDU=
+
+Name: org/conscrypt/SessionSnapshot.class
+SHA-256-Digest: 0goQe0gFa6LNpXj3rU4zcTT7ZqPe1CZ6XP8yGV2qlLM=
+
+Name: org/conscrypt/Preconditions.class
+SHA-256-Digest: wDBxooQgv3VUMu7UF4avM0Z9yj6YDmLG507xOkT38tQ=
+
+Name: org/conscrypt/OpenSSLEvpCipherDESEDE$CBC.class
+SHA-256-Digest: jk5RTEz09bKEkvBsZoYkCw/Hxp3otjlTlw85I/asYz8=
+
+Name: at/favre/tools/apksigner/signing/ZipAlignExecutor$Location.class
+SHA-256-Digest: 5QcxMZgV18WJaTYsuqKjUiTe3pHe1zrMAcrA4hZE8nY=
+
+Name: com/android/apksig/internal/jar/ManifestParser$Attribute.class
+SHA-256-Digest: sj423rpcyd+9z7yV8l/P9XXGT5XDOmlvIdlBj3LWe8U=
+
+Name: org/conscrypt/ConscryptServerSocket.class
+SHA-256-Digest: EN/ukX6P9AUolhQIuwkfvrFIELL9AY/nxBsWi53PgRU=
+
+Name: at/favre/lib/bytes/BytesTransformer$ResizeTransformer.class
+SHA-256-Digest: 2Xr+Va6E7sAItha0zq4CE/lo/Nv8YW/XLwHas4J1e4Q=
+
+Name: org/apache/commons/cli/ParseException.class
+SHA-256-Digest: Gt+TN+e7mcuVeB+RSPPhEuYaxAiwIv+j430g4YJJthw=
+
+Name: org/conscrypt/OpenSSLCipherChaCha20.class
+SHA-256-Digest: 2CZfFsV5ZKC5JveuzeT2Co0av2RxS/eEcjYR2PgLYOc=
+
+Name: com/android/apksig/SourceStampVerifier$Result$SourceStampInfo.clas
+ s
+SHA-256-Digest: CunS94LjwHfAiZadbpjqX5z73a42NWXvZjIvpR3+O2o=
+
+Name: com/android/apksig/internal/pkcs7/SignerInfo.class
+SHA-256-Digest: o1jR/CjEBDBrgrDDTB+UAQCmz5xAqpEQ5TaVD8fNkQ8=
+
+Name: org/conscrypt/SSLUtils.class
+SHA-256-Digest: U842o92qYRSB/6q+FHkbjKp45mqLSHXygbsPK/kkF9Y=
+
+Name: org/conscrypt/CertPinManager.class
+SHA-256-Digest: jOXSuJus3h8UmzNbZ3mE3rqGmKTeIAVCmeQ9x2aMupQ=
+
+Name: org/conscrypt/IvParameters$DESEDE.class
+SHA-256-Digest: Fve2ptcK93Vwx52/wmCxbD+aCDZTgItCOfcmwz0JtBk=
+
+Name: com/android/apksig/internal/apk/stamp/V2SourceStampVerifier$1.clas
+ s
+SHA-256-Digest: FgeUunAerfAlRcMtoiBSaoAwS0CaGBs0/T/rj9A+25k=
+
+Name: com/android/apksig/internal/apk/v3/V3SchemeSigner$Builder.class
+SHA-256-Digest: 7baAscWXVPP5PfeNsQaL8DEYCk22DObZF2Oh15K5EcA=
+
+Name: org/conscrypt/OpenSSLMessageDigestJDK$SHA512.class
+SHA-256-Digest: UqcCDEgjHRoP05w+hrmxRkGNQqp71poq0ibe3gkfeiw=
+
+Name: com/android/apksig/ApkVerifier$Builder.class
+SHA-256-Digest: qTqXA8VaQ47b1UQibK0+aayME3rZTPDlrWSkg7ihaUg=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$ChunkSupplier
+ $Chunk.class
+SHA-256-Digest: V+e5vWBw4xX0WBkP8/zAE0BcKcxV/CQ/0vSwFvAhSAI=
+
+Name: META-INF/NOTICE.txt
+SHA-256-Digest: IsUm0D9bMj2gh1STiWJIiQexbBygCm8fhMHgVFsfOuA=
+
+Name: org/conscrypt/io/IoUtils.class
+SHA-256-Digest: CmvDhMdpvgvz8pzlisPqsIWDkhX8JNIYHYfylTvK+10=
+
+Name: org/conscrypt/KeyGeneratorImpl$AES.class
+SHA-256-Digest: uNn25w0lLFM55oziMomEWOH0BAuR0kyPe/QGu9U8WYQ=
+
+Name: org/conscrypt/FileClientSessionCache.class
+SHA-256-Digest: p1rBRW8O2f8qtCujm8RBQiUM7YbM9eeyQZcuJVzhn08=
+
+Name: org/conscrypt/NativeLibraryLoader$LoadResult.class
+SHA-256-Digest: ve23FjATkqLYQp6QavgrIbrWmHd/ucT6XT+CxMPTDi4=
+
+Name: com/android/apksig/internal/apk/v2/V2SchemeSigner$V2SignatureSchem
+ eBlock$Signer.class
+SHA-256-Digest: TSUCMPurqYKgnL2efO3mmYxwoN8FX4YdAh4219zz0Io=
+
+Name: com/android/apksig/ApkSignerEngine$OutputApkSigningBlockRequest.cl
+ ass
+SHA-256-Digest: TEwOICAPLQyF6roLpgF57ig74mtztGIccI95bdwR9dI=
+
+Name: org/conscrypt/OpenSSLSocketFactoryImpl.class
+SHA-256-Digest: 0QY2s4UBTnCSVE4Zpm9R/t+cu8eJp4rQJc+0HfRbVc4=
+
+Name: mac-zipalign-33_0_2
+SHA-256-Digest: Pr2w2ZbZxbZvg8+AmyWx6rKeJex880zq/zrybThXBsk=
+
+Name: com/android/apksig/internal/zip/ZipUtils.class
+SHA-256-Digest: PKckMqEaPtomzQEGoHC+lIBaXKCZ8zbgFaRcj5pU6V0=
+
+Name: com/android/apksig/internal/util/ByteStreams.class
+SHA-256-Digest: yWVXTiaSRGqom3oZyppDNlPqDyMUUahqvpIHM0E7nY4=
+
+Name: org/conscrypt/Java7ExtendedSSLSession.class
+SHA-256-Digest: uKRrTesYsBQf1q+CnJeKJjIZR3Kpmqz+AtbQ9adZKK0=
+
+Name: org/conscrypt/OpenSSLAeadCipherChaCha20.class
+SHA-256-Digest: yU6HDg0qaqe62IzEXEtcO4n47U10GV9cc981dQtMrFk=
+
+Name: at/favre/tools/apksigner/ui/FileArgParser.class
+SHA-256-Digest: hJB/RdbOZJxwi/PVjblTV93cLGnfL1Y9oghFb2aTWjQ=
+
+Name: org/apache/commons/cli/CommandLineParser.class
+SHA-256-Digest: 5ewBFi/F35KBxMTHjW17rcabhvtADRLqk0YKu9AIcz8=
+
+Name: com/android/apksig/internal/pkcs7/IssuerAndSerialNumber.class
+SHA-256-Digest: tonngZlrg9ZHABDoVEaCIDBOt0vTT7mb0VeWW3Ctvzc=
+
+Name: com/android/apksig/internal/x509/RelativeDistinguishedName.class
+SHA-256-Digest: 4pj7KP5NSS3rtHZylaw3mEMr3cGNFUTXDShdFR9DM/s=
+
+Name: com/android/apksig/internal/asn1/ber/BerDataValue$ParsedValueReade
+ r.class
+SHA-256-Digest: Q2WFY0/3cTqWs4rjn2ZkYnRFRJ+mSiOswFvJinw8TIo=
+
+Name: org/apache/commons/cli/OptionBuilder.class
+SHA-256-Digest: 3VF59vXkwwqwATm9/+w04BvuSk99KPQeRGOMzG9TpLI=
+
+Name: org/conscrypt/OpenSSLMessageDigestJDK$SHA1.class
+SHA-256-Digest: bszWLkyUNgs1Gkkl2kTTk35pYT6U38jRKwZxOgnRK9w=
+
+Name: at/favre/tools/apksigner/SignTool$Result.class
+SHA-256-Digest: xQ3pMh4ANoBtgTovqxTzfgIAZjGZS6148sqw4sab1DE=
+
+Name: at/favre/lib/bytes/BinaryToTextEncoding.class
+SHA-256-Digest: khxMLZDt36SKPDYpaRBqA4XKIYj7AkE4RTpenPqfLxI=
+
+Name: org/conscrypt/OpenSSLBIOInputStream.class
+SHA-256-Digest: 77vKDP9qeLGkA7NlhNJr0R7K3K6goeqQCYbF4qtTBWI=
+
+Name: at/favre/lib/bytes/BytesValidator$Length.class
+SHA-256-Digest: ovy2TYFe83tSoMbDA3QkOwifprR+Fh4JNQwikZFuIRY=
+
+Name: org/conscrypt/OpenSSLSignature$SHA256ECDSA.class
+SHA-256-Digest: DRkoe5KEdLhrxlIpSxK06Q3XroqYV2S24KKOI8ziuwg=
+
+Name: org/conscrypt/ApplicationProtocolSelector.class
+SHA-256-Digest: MSObznaX90qzjcrtzvTToLKIRFzbwGUCJNaZIqGKwTM=
+
+Name: org/conscrypt/OpenSSLSignatureRawECDSA.class
+SHA-256-Digest: gi/BJFJvFS1e1zVQQR/CkPp+/KF8Yx1ZHJ+fZIVOE3A=
+
+Name: at/favre/tools/apksigner/signing/AndroidApkSignerVerify.class
+SHA-256-Digest: B7yUFX17HMw4AU9OUVwbYgROT2c+Q+2VlpR9s74VbWI=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeVerifier$Signers.class
+SHA-256-Digest: NQhF8hLxfN0XqylnhH2ZpKoy1kZ97Cy1ZGPCI+d8+dc=
+
+Name: org/conscrypt/DESEDESecretKeyFactory.class
+SHA-256-Digest: VND/xTCBmO68oIbpqbjvdMm5yD8GUrP+DYqk3vQYKbU=
+
+Name: org/conscrypt/ExternalSession$Provider.class
+SHA-256-Digest: aS5O0Exnx+DiWbdigS8aC+uvBbuNMgFlLxE/yaCaM+E=
+
+Name: org/conscrypt/EvpMdRef$SHA256.class
+SHA-256-Digest: HToC3UXjrKl1LwVLINSD8YaCcpdUzCgTyxphbFNQZug=
+
+Name: org/apache/commons/cli/OptionGroup.class
+SHA-256-Digest: 9ilbQyfaq3qXjX/7+bwCeQlhZqNOGNATZ8xST8W4v74=
+
+Name: org/conscrypt/IvParameters$AES.class
+SHA-256-Digest: 4YSq8/WCIaLmYGZp1LhY48rSHeyptxjJzlBUzpcYaXs=
+
+Name: com/android/apksig/SourceStampVerifier.class
+SHA-256-Digest: T52vE4CXDwdYwzA8dqGP3/5Ced7q1RpMUpLAQWUVgN8=
+
+Name: org/conscrypt/metrics/OptionalMethod.class
+SHA-256-Digest: YempylBUJyDUoWNTeAZkb4BJTGWL1i86IbkdcKT/dlE=
+
+Name: com/android/apksig/internal/x509/SubjectPublicKeyInfo.class
+SHA-256-Digest: jgnFSuWllJgp0WQGPSUKM/eYflh44SvG1gVakvaZrhw=
+
+Name: com/android/apksig/internal/apk/v1/DigestAlgorithm$1.class
+SHA-256-Digest: 14uDW4qjXJ0f3d2n4em67h+Tb5yNYjIVvj3tYYZnS6Y=
+
+Name: org/conscrypt/OpenSSLRSAKeyFactory.class
+SHA-256-Digest: FG4h28pdTqcd8RXB7B6BBadDZmMzkR3MwYIzi77H4UE=
+
+Name: org/apache/commons/cli/PatternOptionBuilder.class
+SHA-256-Digest: +VtgTdYGM5+CcL8Squd6jASvembUBOUrPmnSouq/k5w=
+
+Name: com/android/apksigner/ApkSignerTool$ProviderInstallSpec.class
+SHA-256-Digest: MtUP6EhZZrC9cfsf3CRpAQXjBAD4KSEZvjtBqpngJr0=
+
+Name: org/conscrypt/EvpMdRef$SHA384.class
+SHA-256-Digest: /tHivqDb2oZxmEXLrDdGImjT1hdPNRX53mp0zBtoPIU=
+
+Name: org/conscrypt/OpenSSLEvpCipherDESEDE$CBC$PKCS5Padding.class
+SHA-256-Digest: LtFy9LGulVGfq7OLRdTTrOIGo29sfAEKUIV2iCYvqe4=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$Result$Signer
+ Info$Signature.class
+SHA-256-Digest: fYvLWpcJf8XWGqAMv3uC/+biTJQrJzB6l1jvAL6WdRI=
+
+Name: org/conscrypt/KeyGeneratorImpl.class
+SHA-256-Digest: AUUBlhofZnVh1tf85O0tAvqOW1ZRvIh6IEnCBeSV1FU=
+
+Name: com/android/apksig/internal/asn1/ber/BerDataValue.class
+SHA-256-Digest: 0KxWz9RTgwH7y3PmbHmyt82ZOdSEu1WtMuNyH0AmWDk=
+
+Name: org/conscrypt/FileClientSessionCache$CacheFile.class
+SHA-256-Digest: xuk+rgDZJBh2bM79T5Y7djhPiKPHkP7oYLAsWB/JPD4=
+
+Name: org/conscrypt/OpenSSLXDHKeyAgreement.class
+SHA-256-Digest: eZ4jC3zscimn1VCbKdQzFKnQiKahSCuP8NmdptUfp+E=
+
+Name: org/conscrypt/NativeSsl$BioWrapper.class
+SHA-256-Digest: wHZ4amfW1oglWkE6Fn5kx/JWUBl3diGi4BckoQ3OYGo=
+
+Name: org/conscrypt/ClientSessionContext.class
+SHA-256-Digest: PsI7QSNtXKRxSi4Vx1ZPLnoJaypialsuFQem7SMvtzc=
+
+Name: org/conscrypt/Java8FileDescriptorSocket.class
+SHA-256-Digest: rIs/9vBHOWzMQi/qd+R8cvcN45kjnt7OMJXNYOpX5F8=
+
+Name: org/conscrypt/OpenSSLSignature$SHA384ECDSA.class
+SHA-256-Digest: 7HM584xKbFHPJ58Fc+Tf+HPN4dra3QuGwUX6i38t9x0=
+
+Name: org/conscrypt/NativeSslSession$Impl$1.class
+SHA-256-Digest: SrTkZEYMUobSllnlVhKNE1gJ8mg5QLbFVDLpxihC3B8=
+
+Name: org/conscrypt/KeyGeneratorImpl$HmacSHA512.class
+SHA-256-Digest: LEYFUruc4f0dYUrEr2fX30pTlUKDj4P0kSVIWkLKtSw=
+
+Name: org/conscrypt/OpenSSLECGroupContext.class
+SHA-256-Digest: WBd1mFIaR2elpLwOXvPwgRx2/ZwxpU4m+Q2Ah0PkhrA=
+
+Name: at/favre/lib/bytes/Base64.class
+SHA-256-Digest: ZobKbOFXTgcJR/X4MJmcOWXXfPdWhVCY4gSzojmasF4=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeVerifier$Result.class
+SHA-256-Digest: UoOME8Jp9Bje7s+v9YgnkeJh9dj0qUSsvCuBrvgrXKo=
+
+Name: at/favre/tools/apksigner/util/CmdUtil$OS.class
+SHA-256-Digest: LMsPnob/M+Hf6JH2wTsxGeoxRtvJlYtslNXXtSxF/O0=
+
+Name: com/android/apksig/ApkVerifier$Result$V1SchemeSignerInfo.class
+SHA-256-Digest: Nbav7iD1QZOCdsP3qnJIgV+AV7MaNUPz32aLoiG1+Fo=
+
+Name: org/conscrypt/KeyGeneratorImpl$HmacSHA384.class
+SHA-256-Digest: ihT743HNIXdnU0gXAd/NYPORVQG6sZeRU9SVg1XH9Ms=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeVerifier$1.class
+SHA-256-Digest: YXZ90ZLYpMyyFNRap7fR543jFpaKPxftanIKvqD1jpk=
+
+Name: com/android/apksig/zip/ZipSections.class
+SHA-256-Digest: MUk3pmYuL3E5L/GQiFYnZEsXpyE4qPGTjodLNrvRJ8M=
+
+Name: binary-lib/windows-33_0_2/libwinpthread-1.dll
+SHA-256-Digest: uu9FmWZrnyMPMmLjVW6oz5V5Oqq2UPgVzWJUyQe0kZ4=
+
+Name: org/conscrypt/OpenSSLECDHKeyAgreement.class
+SHA-256-Digest: UWKn0170Yx5ocj1T/8Kcy6f8/XmHWN+94ypSZE9+tt0=
+
+Name: org/conscrypt/OpenSSLAeadCipher.class
+SHA-256-Digest: p82WVyYGkoWzRBVQroKiqyXptlQDPuZuCRf1J9uR0JM=
+
+Name: org/conscrypt/OpenSSLMac$HmacSHA256.class
+SHA-256-Digest: g1p7xXnBeWaBw3JTbsjwznnSS7joON7b49wRdBePlvc=
+
+Name: at/favre/lib/bytes/BinaryToTextEncoding$Base64Encoding.class
+SHA-256-Digest: QME6RbMxWNeOX4xtvjTg1cjo5N6pDRqBHilOLRmblfo=
+
+Name: META-INF/maven/at.favre.lib/bytes/pom.xml
+SHA-256-Digest: 5WBF1bnMuimEIyvzCf2gMyxJvR4Ei5p3QeYiSaKGYqY=
+
+Name: META-INF/maven/commons-cli/commons-cli/pom.xml
+SHA-256-Digest: TVPFsKxX/ar+eFAAOQtvGnnkU747zsvLR5cNNbtRmp8=
+
+Name: org/conscrypt/OpenSSLProvider.class
+SHA-256-Digest: 5puSWAY1npLyKd5xZU1RawR7KRTSzVHtprR2FOQldU4=
+
+Name: org/apache/commons/cli/HelpFormatter$1.class
+SHA-256-Digest: o1OJ6ddHguaK9dbh/JcDwUknwxJmUxzrJPtyeTeYKok=
+
+Name: com/android/apksig/internal/apk/stamp/V2SourceStampSigner.class
+SHA-256-Digest: zCEZnXxONxDS791K3sNLBWGZyWhHfJHFDnsm2hyJYQ4=
+
+Name: org/conscrypt/metrics/Protocol.class
+SHA-256-Digest: zWQHMBScQSeJINeaPvtz7dihSlCw5ikaWfK712i8Y3I=
+
+Name: org/apache/commons/cli/Options.class
+SHA-256-Digest: LIk4lat4MqL+ryZF2EvicK/WiXjduJg4AXuzBMkRFDU=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils.class
+SHA-256-Digest: CPKAFOIt09ssTwPGioKt1J+ZnDz4aEIAq2Bx1L0z9T4=
+
+Name: com/android/apksig/internal/zip/CentralDirectoryRecord$1.class
+SHA-256-Digest: Iotdtn5V8uIlK5CPP7u2ZjIOrhVDZjWm3EQsIlo97bY=
+
+Name: org/apache/commons/cli/HelpFormatter$OptionComparator.class
+SHA-256-Digest: hObodPojnAHQJFLPOgkeYYOmpe0iZzOF5VfETx+9YJs=
+
+Name: org/conscrypt/Java8EngineSocket.class
+SHA-256-Digest: LrZKvDEMKI+YT2Fn7P8pMPtId9YCbxR2pM/ugczRwME=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_256$ECB.class
+SHA-256-Digest: JhBAgI+2RtFdvbjFdWcWtV7O4rRFFpMPSWEjQGXV6Vo=
+
+Name: org/apache/commons/cli/UnrecognizedOptionException.class
+SHA-256-Digest: vBFHWCTvRYr5seQOLX4k/JpO/eTiQPk8d/Z11bDf59c=
+
+Name: org/apache/commons/cli/GnuParser.class
+SHA-256-Digest: OnrdyA/ftDYdDRwMEdUE6qlwxkZyUgotM5vJ02x16mk=
+
+Name: com/android/apksig/util/ReadableDataSink.class
+SHA-256-Digest: cOgmALH948rye5TYcgKDedr99WO97sSaSumGbivkzlU=
+
+Name: org/conscrypt/ct/CTVerificationResult.class
+SHA-256-Digest: 8FdjMrnCIPIDvBrVpWmuNNBeIRO2jRdiWOhr97B8pTo=
+
+Name: at/favre/tools/apksigner/util/FileUtil.class
+SHA-256-Digest: 16kDM9YAXXNAz8L4U7MMeHCE/qfKoLzS7GKMQbNVORM=
+
+Name: com/android/apksig/internal/asn1/Asn1BerParser.class
+SHA-256-Digest: F5epfWO/GRXYwWeczQ1xecuKmP0necYOBajUQMl6BmU=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_128$CBC.class
+SHA-256-Digest: vRgHepUIFQIdNmQWpz2DgotUfGkDWxsmep+2rwEU6rY=
+
+Name: org/conscrypt/ct/SignedCertificateTimestamp$Version.class
+SHA-256-Digest: pCEejUSziI+a48OgoRzdb9oZNUq6JqKG8j3MljQzMN0=
+
+Name: org/conscrypt/OpenSSLContextImpl$TLSv13.class
+SHA-256-Digest: ALB1HhWNEU6If5/AU3dPezCPj/dGMXB+BbsFIls28Ik=
+
+Name: org/conscrypt/ct/CTLogStore.class
+SHA-256-Digest: H1koi/j+lrZW9g7q2ObnWBnz4N8jlcXOWq4QTzmSAts=
+
+Name: at/favre/tools/apksigner/util/FileUtil$1.class
+SHA-256-Digest: VdrjyUIT9CxM8eHMHRv9xxvaolNGkbaIJVXymGjdrZE=
+
+Name: com/android/apksig/internal/zip/EocdRecord.class
+SHA-256-Digest: wDzrjfIxSYY4+boygrhFVV8s79tizpaI8Bj55K6d2Co=
+
+Name: com/android/apksig/internal/asn1/Asn1Class.class
+SHA-256-Digest: oeLf84LhYpiAamDLzPce1Lcs4xaMp1xsS5PXEzDZl4Q=
+
+Name: org/conscrypt/OpenSSLSignature$EngineType.class
+SHA-256-Digest: QSuvd3UPG5iiHdWaKH4UmXB75zg152Tvk1+xuSKoMpk=
+
+Name: at/favre/lib/bytes/BytesValidator.class
+SHA-256-Digest: hvN7vLf9EerPwUF8Coxv11/eJqAf0WAvDV3VAEER6NE=
+
+Name: com/android/apksig/ApkSignerEngine$OutputJarSignatureRequest$JarEn
+ try.class
+SHA-256-Digest: ribhfKTIYLJLcaVL2GG7TeHwtiYMMVPnuOtAq6n3NYg=
+
+Name: org/conscrypt/OpenSSLSignature$SHA256RSAPSS.class
+SHA-256-Digest: zWmxUMFYTNfXK+R3naA0W7/pSiKiQ1B05Z5x7UneExM=
+
+Name: org/conscrypt/TrustManagerImpl$ExtendedKeyUsagePKIXCertPathChecker
+ .class
+SHA-256-Digest: TVX9fzAy4c/VtWFaUNCq0Gsiwq+mQ9QmFKv3CeAYfjk=
+
+Name: org/apache/commons/cli/Option$Builder.class
+SHA-256-Digest: ubY6hQRLtk8wqfQulVliFfhsKdP0WkZJnz+Seh/rPns=
+
+Name: com/android/apksig/internal/asn1/ber/ByteBufferBerDataValueReader.
+ class
+SHA-256-Digest: dgxYHhyDHFizUzVjP5aOtOh/uT6E7bV0mJ6IQFFBMFg=
+
+Name: org/conscrypt/OpenSSLCipher.class
+SHA-256-Digest: Kgzo7zndMuHw8FLdkKFHkJ8Vd9wzSGDp8sZM4wSKruA=
+
+Name: org/conscrypt/OpenSSLSignature$SHA512RSA.class
+SHA-256-Digest: KW7QYv4M8Mku+7K9RTqfkJvsOUNrTIwZuXPmb1y57fQ=
+
+Name: org/conscrypt/OpenSSLEvpCipherDESEDE$CBC$NoPadding.class
+SHA-256-Digest: bKAfiXgyYYtfR/96j5vIP19tZVOZakHqEaOtsZnrMOc=
+
+Name: com/android/apksig/internal/asn1/Asn1DerEncoder$1.class
+SHA-256-Digest: ywy2Xy03qp3sjAOTVpId7ZJwtKHkAbK5N/hC7TOjct8=
+
+Name: com/android/apksig/DefaultApkSignerEngine$OutputApkSigningBlockReq
+ uestImpl.class
+SHA-256-Digest: +fiUgJQh26jMx2fRyfYNEvK4FXZBcNyalDxMw3giBQU=
+
+Name: org/apache/commons/cli/TypeHandler.class
+SHA-256-Digest: IfA5Ezkuk1y4vp+BIVPy9OXToQ8i+jDPydWLRLzXEYw=
+
+Name: org/conscrypt/OpenSSLX509Certificate.class
+SHA-256-Digest: OrNU1mWRl0PA3SXClHlld/IchelBh7p1tI7MWRjQfhQ=
+
+Name: at/favre/lib/bytes/BytesTransformer$ShiftTransformer.class
+SHA-256-Digest: wLGTqYMVbA5tmbGpWGhde0NucvGZB/RH7edF81FkFas=
+
+Name: at/favre/lib/bytes/Util.class
+SHA-256-Digest: n5qINWluyxc198Xsmo52rQ71SDzeHlh549JYVihwWno=
+
+Name: com/android/apksig/internal/pkcs7/SignedData.class
+SHA-256-Digest: FBJhwF5BsvL88uWfVXYiZjR5kDfwizD3912ZQGuthKo=
+
+Name: org/conscrypt/metrics/ConscryptStatsLog.class
+SHA-256-Digest: gM8icbRT0zayZTSJSrY1i4sEd7oP2jtcE4FwSC8PPxI=
+
+Name: com/android/apksig/ApkSignerEngine$OutputJarSignatureRequest.class
+SHA-256-Digest: fC6OzlwzDNNFEc97iIjDGe9j+dzr0eN6qZWc6m3dOAA=
+
+Name: com/android/apksig/internal/jar/ManifestParser.class
+SHA-256-Digest: lq4cIYjOJ8f974ukLafQ7AQd+0k0xH4SICWK6UaW4GA=
+
+Name: at/favre/lib/bytes/BytesTransformers$ShuffleTransformer.class
+SHA-256-Digest: /IeOzBksxCJLebLNxO4GEMXen3hMCSQqTDFosfy20vI=
+
+Name: com/android/apksigner/help_sign.txt
+SHA-256-Digest: EHQcBHaQaKbQz4CD9pBU8UdEESEqaJWzdOhrU1gHL7I=
+
+Name: at/favre/lib/bytes/BytesTransformers$SortTransformer$UnsignedByteC
+ omparator.class
+SHA-256-Digest: mjUKUg5bW4DNlSRGa7aTv3vUwOqPY3v7j2ax7ZL366U=
+
+Name: org/conscrypt/OpenSSLSignature$SHA256RSA.class
+SHA-256-Digest: gj5tF/33w2sFjjwfgjn9kXb4inP9KG4++hR13rKNegk=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_128$ECB.class
+SHA-256-Digest: Z9mK3WPFz+h7zvMBXzCVEkWMxGSLrTOdieMxZn4yFeA=
+
+Name: org/apache/commons/cli/PosixParser.class
+SHA-256-Digest: L8FrNeXfw3rqp9sxoRnuu0QGObEwO6xd49k/dD2zwo8=
+
+Name: com/android/apksig/ApkSignerEngine$InputJarEntryInstructions.class
+SHA-256-Digest: PuufHWZc0kNhpeGiLX/a8uYJYspUT5mh37GV9aJlJQE=
+
+Name: org/conscrypt/Java9PlatformUtil.class
+SHA-256-Digest: zBl/j3FUwLtH1sAZMxih5Oe0H39V2XyczGwkzDdJO7k=
+
+Name: org/conscrypt/OpenSSLSignature$RSAPKCS1Padding.class
+SHA-256-Digest: sC7XtQo+Qh45otB0N0pN6oJmiVmj3AgNLti+v72z6sM=
+
+Name: com/android/apksig/internal/zip/LocalFileRecord.class
+SHA-256-Digest: d7VOPCeSXAmMi/kaT25w4IFCBEA+MhIXTFjiClgehWU=
+
+Name: com/android/apksig/internal/pkcs7/ContentInfo.class
+SHA-256-Digest: m1HhCmWwa1sLB+wOXqYbqihC2Mre5UCLkz09Gs2hu38=
+
+Name: com/android/apksig/internal/x509/Time.class
+SHA-256-Digest: 7aj7j51BxEr/wYBPemzEWHGo1JuQ4YbmEfvWcTgO8dE=
+
+Name: org/conscrypt/Conscrypt$1.class
+SHA-256-Digest: qRERlRT05beuDJmn4Ld8xFMQCQkJXv3txu4OvWHRBQY=
+
+Name: org/conscrypt/OpenSSLMac$AesCmac.class
+SHA-256-Digest: GTkdSMy1Wbn9RXHDG1XIvtWhizlzQhPwxMo7P/iL8R8=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES$CBC.class
+SHA-256-Digest: uFeAk4pGxv5l8V1+8+HyRpZC/A4FAZGo4EI+nOlveFs=
+
+Name: com/android/apksig/internal/asn1/ber/InputStreamBerDataValueReader
+ .class
+SHA-256-Digest: wuq08VzlGuO+uiHwbje/iV3aJZNhxG88tzjvEPhrqXY=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$NoSupportedSi
+ gnaturesException.class
+SHA-256-Digest: HugIr01R3/mfg4aScox3roucT99o7slrxZAAbI5qgdg=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$Result$Signer
+ Info$AdditionalAttribute.class
+SHA-256-Digest: xlCS0A+1Wzz186ysTw38P07VTYOnhabZiMmhNu5j2Jc=
+
+Name: org/conscrypt/OpenSSLECPrivateKey.class
+SHA-256-Digest: MFfts5/ob61g+dvjfO5dKTt16Iy3D87yXJ8rSwt46Wk=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_128$CTR.class
+SHA-256-Digest: c9UsgMS/07zw6ptThw4lFc2AzSr48aG2VmyNsUuUVcw=
+
+Name: com/android/apksig/internal/asn1/Asn1OpaqueObject.class
+SHA-256-Digest: UdecNGD0+BrCZzohUHGZh8TOk9TbSUeUiHFBdjhZuH8=
+
+Name: at/favre/tools/apksigner/ui/MultiKeystoreParser$Entry.class
+SHA-256-Digest: hzdN27lddM3QeeWkLCUh1Pmuv5NYGJ+EKmnSHSOx/Gc=
+
+Name: com/android/apksig/ApkSigner.class
+SHA-256-Digest: 2itHqR6gVK43KzjaT+244R8qTHvIk4QvLzd3OxpJbk0=
+
+Name: org/conscrypt/OpenSSLContextImpl.class
+SHA-256-Digest: EiHBzYaXy3QoQ3/u+NxP81jsiDeHneiFTQrTDs9rOSE=
+
+Name: org/conscrypt/OpenSSLSignature$SHA384RSAPSS.class
+SHA-256-Digest: kxvAAFi14voNegPL6bsHA18oKvulIESB/G/SZn200Ac=
+
+Name: org/conscrypt/KeyGeneratorImpl$HmacSHA224.class
+SHA-256-Digest: DpjxsHMCICpPe7Z7EjQ7nB4vxm8Vz07uUIGo6UIQPmc=
+
+Name: com/android/apksig/internal/asn1/Asn1DerEncoder$AnnotatedField.cla
+ ss
+SHA-256-Digest: b29m3GqMn1X7EDVsvLPA6XDagu8putzz6hN+l8OgTfU=
+
+Name: org/conscrypt/ConscryptEngine$1.class
+SHA-256-Digest: Ob8x4SFVatL6NBppbihetP0OqXQCM858qwdMZ+KqlnA=
+
+Name: com/android/apksigner/help_rotate.txt
+SHA-256-Digest: SILwe6HnQYctaa8KPdcOTFo1i2ybanQL/bJrHoJ4hdM=
+
+Name: org/conscrypt/ActiveSession.class
+SHA-256-Digest: vDi23cByTaUkR9xYNJ7Ad+tkpyKXFCl4OpxcmY0LoM8=
+
+Name: com/android/apksig/apk/ApkUtilsLite$ApkSigningBlock.class
+SHA-256-Digest: MpYkxySQ6JiE01teowCvo5DRz7AYmsQARnRVM8CHFaM=
+
+Name: org/conscrypt/Java8FileDescriptorSocket$1.class
+SHA-256-Digest: Hsi5neZ2OCHxZumKcX4cN2NqJ/ZWQV4+x3F9XXMcHdI=
+
+Name: org/conscrypt/TrustManagerImpl$1.class
+SHA-256-Digest: 8RDs4DmQtqkF4ZucaMM96sjxCAQEgjqeq9sJ3oO/GAk=
+
+Name: org/conscrypt/Java8ExtendedSSLSession.class
+SHA-256-Digest: IvF/BDqe9v3x6GhCNOIoYHyCqFOakjQTnSl+G5OivII=
+
+Name: com/android/apksig/internal/apk/v3/V3SchemeSigner$V3SignatureSchem
+ eBlock.class
+SHA-256-Digest: d6SkJwetvSWG8miZ5zVuEjZE68618qoX2c3ei3fwl1w=
+
+Name: org/conscrypt/OpenSSLXDHKeyFactory.class
+SHA-256-Digest: z91UZ4OXryx7IA7mB8cCkh4oM1UKbGD2SLhzd4bT1Co=
+
+Name: org/conscrypt/KeyManagerImpl.class
+SHA-256-Digest: Jd/mM2KafERpaqJPv01GQkGSnbNIODcfevwEq64oGK0=
+
+Name: com/android/apksig/internal/apk/ApkSupportedSignature.class
+SHA-256-Digest: hGid8QvPitjcC7NttHO+E7qqwJFNb2wxhN+3T9yPyrE=
+
+Name: com/android/apksig/internal/asn1/Asn1Field.class
+SHA-256-Digest: nrJXCvjSnWKYEkCfw9+yfMyJOWrmmKk1eeGq2aL2cYg=
+
+Name: org/conscrypt/OpenSSLRSAPublicKey.class
+SHA-256-Digest: Qaj9hIw6+qcviy2OND3gTE0KsWzy8a94vsAT+5oHVAQ=
+
+Name: com/android/apksigner/OptionsParser.class
+SHA-256-Digest: iuEVgsmSkanh0kKM0Yy5NzhR8tW6vidwCuNsRFNYkeA=
+
+Name: org/conscrypt/DefaultSSLContextImpl$1.class
+SHA-256-Digest: fevLgxXbgJhWFburxtwSET/qdlCnl3d+hChftQT2Svw=
+
+Name: org/conscrypt/OpenSSLCipherRSA$OAEP$SHA1.class
+SHA-256-Digest: 85XN8gmTPJQTPFTr1uL7EfdMTba9mCcLCR/+gKmnJ1g=
+
+Name: at/favre/lib/bytes/BytesTransformer.class
+SHA-256-Digest: uhZIZnhXXjJwylyqFybwDpjoUmMkywQ1fEAYSsnNDko=
+
+Name: at/favre/lib/bytes/BytesValidators.class
+SHA-256-Digest: 3XkIkM8Qx79uwJi41vjr1LKC8eQ39hfMEPEGyQeR0WM=
+
+Name: org/apache/commons/cli/AlreadySelectedException.class
+SHA-256-Digest: O3LfefZdcYDzYyJ/+lUQTpW0PVcihK5uuDCouyVeUSo=
+
+Name: org/conscrypt/OpenSSLMessageDigestJDK$MD5.class
+SHA-256-Digest: MMEzA2QwahX+pcCpOgWh8t7yo3/x9yxT/lOFZQHn2xw=
+
+Name: org/conscrypt/OpenSSLContextImpl$TLSv12.class
+SHA-256-Digest: zJybaLwf7c8xMPgoSxyM4w9QpwWF/qhmNnobeL5q7+A=
+
+Name: org/conscrypt/TrustManagerImpl$TrustAnchorComparator.class
+SHA-256-Digest: lIv0Dm6pmrWYWQ71piTf0fYK2bblSFygF4ftmJsC2MY=
+
+Name: org/conscrypt/OpenSSLMessageDigestJDK.class
+SHA-256-Digest: HBkKw6K1V+xc8EH6tG2dNXA3SbYoP141B8eGTfjeb6M=
+
+Name: com/android/apksig/ApkSigner$1.class
+SHA-256-Digest: gK8bTRs/UFjK+tZzf3pIqTwW2maI6fEoUvkvvh+re30=
+
+Name: com/android/apksig/internal/apk/v3/V3SchemeSigner$V3SignatureSchem
+ eBlock$SignedData.class
+SHA-256-Digest: qJ9O2aX0copEAh+PRGrA+FlMS6aAVt2hy6W5UJaqPSI=
+
+Name: at/favre/tools/apksigner/util/AndroidApkSignerUtil.class
+SHA-256-Digest: I/hDyaTTfUxfrhDAVTKzi/kyEOPJVYwb89y64pGiAw4=
+
+Name: org/conscrypt/DefaultSSLContextImpl$TLSv12.class
+SHA-256-Digest: 7Cmk2B9eMsOhUAuPY7IfZNgFt3K1GW4m5hHiNO14p6A=
+
+Name: org/conscrypt/OpenSSLX509CertPath.class
+SHA-256-Digest: BMlkXGscyxcAJGV7+VPf2XUU7ijyfGyn3CHHv0JMoGc=
+
+Name: com/android/apksig/internal/apk/v2/V2SchemeSigner$1.class
+SHA-256-Digest: 3YbJjO5+kDt+3TirhtBVq1Xu0OF0z0mSyRY/Xf6BpqM=
+
+Name: org/conscrypt/OpenSSLAeadCipherAES$GCM$AES_128.class
+SHA-256-Digest: t59PLebP6I1H1zB3a7s04WbxWjlyMR2pGWDmOnuji0Y=
+
+Name: org/conscrypt/OpenSSLXECParameterSpec.class
+SHA-256-Digest: b2D/3CD86f8KrQBcqVWPkZ29Ace4e99cyc3Lu/cSdlM=
+
+Name: org/conscrypt/EvpMdRef$SHA1.class
+SHA-256-Digest: DBS3Ujo0Ji10jaYIyOxpupu4oBED8B4IIiJPm/D8kGc=
+
+Name: com/android/apksig/DefaultApkSignerEngine$SignerConfig.class
+SHA-256-Digest: WXSeRDucgvcghLjG3jSc/y1QZZ3wt76f5hinEtApSqU=
+
+Name: com/android/apksig/internal/apk/ApkSignerInfo.class
+SHA-256-Digest: 5FGmZBIBm0bVTxmTsPnXvZAcN7lw7ghEuU3QeLCqBD8=
+
+Name: org/conscrypt/OpenSSLKey.class
+SHA-256-Digest: BUTE2GOuiPOp2XG/LriFfqacXCYRLDMjHydOJizZz98=
+
+Name: win-zipalign_33_0_2.exe
+SHA-256-Digest: CViD3AgnviJIiQQRmiVJCT7BmdVujS5EIGaK4mj1/P0=
+
+Name: org/apache/commons/cli/Parser.class
+SHA-256-Digest: bDWkX2WKXRSLL+G3Zt8o53cS2iat4AfS7hcp10ow9vo=
+
+Name: org/conscrypt/OpenSSLCipherRSA.class
+SHA-256-Digest: iyhYMqA8fZIM0swWIE5X3kLqcimcaetnIjShuRl1vI4=
+
+Name: org/conscrypt/HostProperties.class
+SHA-256-Digest: /Cqd9QMwNmWGfHSoCXPfp0+X1m0menOImZLJkACTanQ=
+
+Name: org/conscrypt/ConscryptEngineSocket$2.class
+SHA-256-Digest: FL1/C0J4GonKCJwVounBZFb9TxKl7It9YOoRtlLF+/k=
+
+Name: org/conscrypt/OpenSSLCipherRSA$PKCS1.class
+SHA-256-Digest: VDlkPWAa4blkOV9avi/278qSYKyJrMeBIs44VKdBlZQ=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeVerifier$Result$SignerI
+ nfo.class
+SHA-256-Digest: WXr/5bubFsJ717GAuey6CzGt5euHjL/HEtQOd/+PkRw=
+
+Name: org/conscrypt/metrics/CipherSuite.class
+SHA-256-Digest: sHD7Dm6yk/6wLjIHGN5s8tvtfHmWtIcoD+jbAh7Otzg=
+
+Name: com/android/apksig/internal/apk/SignatureAlgorithm.class
+SHA-256-Digest: Q2sxWBMsIdUX1483WIzIxe0/+WHESYiJkeC02b0fe+I=
+
+Name: org/conscrypt/OpenSSLSignatureRawRSA.class
+SHA-256-Digest: hEO8M30XD73E22Q+/UGDwjQYg8k1Mpck/75lTKhsGm0=
+
+Name: org/apache/commons/cli/CommandLine.class
+SHA-256-Digest: GOrqEq/5htNm9qKt7vBy3ZGGuEpU3FzR5KzBl8hmLQY=
+
+Name: com/android/apksig/internal/asn1/Asn1EncodingException.class
+SHA-256-Digest: 3iORgyTkVRD7lXAJ8Z8vNh6J/6r9zSiZiJHXXrHESvs=
+
+Name: org/conscrypt/Java8EngineSocket$1.class
+SHA-256-Digest: q6lnoIG5D3eCgXQkqiog0b90UHDa6Rk53xM3MrGZN0Y=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_256.class
+SHA-256-Digest: T+CdUEXuAoSB7t7l23Y20hoPft/CruC9la/qy3l73jQ=
+
+Name: com/android/apksig/internal/apk/AndroidBinXmlParser.class
+SHA-256-Digest: ysL3SXmhI7DAfF9OF6JcuaxLR8v4r7XEyTPDreoEA7g=
+
+Name: at/favre/lib/bytes/BinaryToTextEncoding$Decoder.class
+SHA-256-Digest: AUoc8VlavxSdk3+op9L4VBNWZnGf8FsRlYjGFfnGwF8=
+
+Name: org/conscrypt/KeyGeneratorImpl$ARC4.class
+SHA-256-Digest: /2PsKyoegI9cz8mDV44kz+EzrU/h1JfN+Pem3acRXDc=
+
+Name: org/conscrypt/NativeCryptoJni.class
+SHA-256-Digest: xZ++k07owWG5OaVlCIxLSuSnMqFZfo4B04JaLAMwEDc=
+
+Name: META-INF/maven/at.favre.tools/uber-apk-signer/pom.properties
+SHA-256-Digest: nDwvaOPuQSqs+zIl6ePmjXNANZ/Nnq8xCFh+VwuV7AQ=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_128$ECB$NoPadding.class
+SHA-256-Digest: NTpSwBZVYERuGZ8n0pEeAopMH+2FQDRGADQuW9sbDbc=
+
+Name: org/conscrypt/AbstractConscryptEngine.class
+SHA-256-Digest: s6qmaZ88RkeWL0yfvD2puKGPr0G/qd82DYudjZoWJ2s=
+
+Name: com/android/apksig/apk/ApkUtils$1.class
+SHA-256-Digest: J8HuQwrBbaUi8jXPXgwKIJMuJrl37dr4FKkPe1ilIRI=
+
+Name: org/conscrypt/DefaultSSLContextImpl$TLSv13.class
+SHA-256-Digest: 7FGh0krYHjxpmyBCz7vwjQ2noSFNo1jmbSr1GZJLWog=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeVerifier$ObjectIdentifi
+ erChoice.class
+SHA-256-Digest: VlWyCn/L8088U76e62haFnHRNhuiBpAZ3SAdalGmIgY=
+
+Name: org/conscrypt/NativeRef$CMAC_CTX.class
+SHA-256-Digest: IzY6vMbisIRcz7sSrGSns+b4JnB1OT/iOVyun2Mluc8=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeVerifier$SignedAttribut
+ es.class
+SHA-256-Digest: pQKuz3pUv5ez0Fp1Y2f/34Rkk3/DlmMgBR9oMRPciGg=
+
+Name: org/conscrypt/ConscryptFileDescriptorSocket$SSLInputStream.class
+SHA-256-Digest: M4czPLNnJd9QGztw15rS+wr84N2KIgfH4C7hhcX0zyg=
+
+Name: at/favre/lib/bytes/BytesTransformers$SortTransformer.class
+SHA-256-Digest: tEpumcQzkOGb7SeUGwVAcpL0LFKxDIx1Dpln4WsMFXE=
+
+Name: lib/apksigner_33_0_2.jar
+SHA-256-Digest: PhTEayeSmyzf4c076PhL0VyIAXGZ5zTiHkswxYLAdTI=
+
+Name: com/android/apksig/internal/apk/v2/V2SchemeConstants.class
+SHA-256-Digest: WNeNzXP4JySLNKCvBsz3l5B6R7Pam0+CPDXFwFvDn80=
+
+Name: com/android/apksig/SigningCertificateLineage$SignerConfig.class
+SHA-256-Digest: qtcwHBUVqvNnjFKTn1AAh+YSxNRzzNa4theODZJg/hE=
+
+Name: com/android/apksig/internal/apk/v2/V2SchemeSigner$V2SignatureSchem
+ eBlock.class
+SHA-256-Digest: CLzDkhaUNhf07hLahTsHUscMzAU0KK8KNbqU18HN6fk=
+
+Name: com/android/apksig/internal/apk/v3/V3SigningCertificateLineage$Sig
+ ningCertificateNode.class
+SHA-256-Digest: WNMawGipGZJMUoH/5T00LjerqZ5b4EwNyAAxzIVE3oM=
+
+Name: at/favre/lib/bytes/BytesValidator$Logical.class
+SHA-256-Digest: EPAi7P/XppXDyBpfjcz6/mBpLrvJUhLdXEeAOs5SweU=
+
+Name: org/conscrypt/ApplicationProtocolSelectorAdapter.class
+SHA-256-Digest: PslMrhW6Y9GqQcxdLBq8v636+Lgyxp9sBwZXR4DNh0M=
+
+Name: org/conscrypt/ConscryptEngineSocket$1.class
+SHA-256-Digest: K+//5bEctMWlQGZB6SLNctBfT8+Td2ETvbJs4VEzekQ=
+
+Name: org/conscrypt/NativeRef$EC_POINT.class
+SHA-256-Digest: lqTw5I1qzpKoiPnLhoiOUpfpZdIoJfDfzrjowZ0fTRM=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$VerityTreeAnd
+ Digest.class
+SHA-256-Digest: dmuSPwkn1XEMgBJ17xsza0H2S/5B+GgsQdPpoOwSbuk=
+
+Name: org/conscrypt/NativeRef$EVP_PKEY.class
+SHA-256-Digest: v8s95h7b5m2nUntltcFsoEmL3mIdHpBHk13wtu6CdlE=
+
+Name: org/conscrypt/BufferAllocator$1.class
+SHA-256-Digest: h/2CCTAF6dNAyest25UllOwAzRQQ6F3BgByD/aFxSH4=
+
+Name: com/android/apksig/internal/asn1/ber/BerDataValueReader.class
+SHA-256-Digest: LAkvCpW0FbSdGydC8kQcfYin6nURbKUs3B/TDsXzBW0=
+
+Name: org/conscrypt/KeyGeneratorImpl$DESEDE.class
+SHA-256-Digest: NVKLJ5dsRUfKAWpCprFvD1aJ8XcjTNUvmTv2/MkWHGg=
+
+Name: com/android/apksig/internal/apk/v4/V4SchemeSigner.class
+SHA-256-Digest: xqAhfZWmwAgUhwOEtM3I+z6/Ax+A9TWE5C68vSmXHnE=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES$CTR.class
+SHA-256-Digest: eTYNJ3GvPjVpe/8msZR2AZnuIb1FHzcvpi1NZlL/I0I=
+
+Name: com/android/apksig/internal/zip/LocalFileRecord$1.class
+SHA-256-Digest: JlmppkTNkElhOVkeMEUWT2usHUnrCsBE6A/jkEByfPg=
+
+Name: org/conscrypt/ECParameters.class
+SHA-256-Digest: +xYDy1QqVwEBS0plqEjhF1TbjdslsyWg5YmXp5ZDON0=
+
+Name: org/conscrypt/OpenSSLX509CertPath$Encoding.class
+SHA-256-Digest: tLd+Ss0oLX3Cu8wWRKiiXc26oUl62QzL4KX3XNknAgY=
+
+Name: com/android/apksig/apk/ApkUtils$ZipSections.class
+SHA-256-Digest: XZX7WGDPFpFD2IyTA3DhugtOpGkgIUtxVUzPFQk+HKM=
+
+Name: org/conscrypt/OpenSSLX509CertPath$1.class
+SHA-256-Digest: GS31vNEQGD2fFdLfjM38irrEvcyoCcQZZsWzCXQ51xI=
+
+Name: org/conscrypt/X509PublicKey.class
+SHA-256-Digest: 7VWl8z0GhY8oYaJpaR2ARnzD8Vmnle07VSxDihR+bEw=
+
+Name: com/android/apksig/ApkVerifier$Result$SourceStampInfo.class
+SHA-256-Digest: o+jq1i/YfmG/fVeMneyR0dMK19xc1cDJe+X1rXVYQWg=
+
+Name: org/conscrypt/OpenSSLContextImpl$TLSv11.class
+SHA-256-Digest: JylQgW7cTr1vq3i512DAz0FvOLPaBbLkHLuVrJDG13A=
+
+Name: com/android/apksig/Hints.class
+SHA-256-Digest: EU0x1qHXH18GUiSJw76haJ9Y68FACiPsEKwjm1Agq4E=
+
+Name: org/conscrypt/NativeSslSession$1.class
+SHA-256-Digest: fr+yz6Xby14cWul7K7eoRQrdTZYcxunvurHQ1CvxkiA=
+
+Name: com/android/apksig/internal/jar/SignatureFileWriter.class
+SHA-256-Digest: 3Ed1HETfix3zLkBRbQq0PS8mnZKOFEHCkQ5lNpU21GQ=
+
+Name: com/android/apksig/ApkSigner$Builder.class
+SHA-256-Digest: ++SaaUiEk9Ur6EYX/A8qfH2sMW/Mv209Q2BQetUgbUk=
+
+Name: org/conscrypt/TrustedCertificateIndex.class
+SHA-256-Digest: xubRBmd6lFgh5++lCQQlNlrLrwy6pxkoBJIoyv85ggw=
+
+Name: org/conscrypt/ConscryptCertStore.class
+SHA-256-Digest: 7Fo8m/QwlbMMo7hnbZKO6M6lm1JoTT4gx/ITel2IDQ8=
+
+Name: org/conscrypt/OpenSSLMac$HmacSHA1.class
+SHA-256-Digest: phltHlinth3BOiZqa7tbIh+GhtMJp7eKkn3tQLkFxRU=
+
+Name: org/conscrypt/OpenSSLMac.class
+SHA-256-Digest: srMU4i5GE6Cnr3eXgvk4Ac3oG8ja6NwkAqJVYAl9Myo=
+
+Name: at/favre/tools/apksigner/signing/SigningConfigGen.class
+SHA-256-Digest: s3NPyRzwR8x0V/Y6Kx2WIuuC/76BLvyC9glGFm1dmaw=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeSigner.class
+SHA-256-Digest: 2fp9y7YTeZ7p6Sge/QAalmCWrkZMsLt/aKAvhnR3NKk=
+
+Name: com/android/apksig/internal/apk/AndroidBinXmlParser$1.class
+SHA-256-Digest: TmDu3BJQPeKNfuL9v3vDMRblMduCTqJ/ZFR3Iu/lyWc=
+
+Name: org/conscrypt/NativeCrypto$SSLHandshakeCallbacks.class
+SHA-256-Digest: wOCgjwCSL7EiCxeIki1dIsnmqFvx9/aqVDISBh/h0g8=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES$CBC$NoPadding.class
+SHA-256-Digest: wOb0Nt6mncjraA1p+YVV1ANYN+54A6ymlWi5zxXfMNQ=
+
+Name: at/favre/tools/apksigner/signing/CertHashChecker$Result.class
+SHA-256-Digest: XlER3vy7tT6L03iEimeryx2e77I608Iv9qTPQ9mOHjs=
+
+Name: com/android/apksig/internal/zip/LocalFileRecord$InflateSinkAdapter
+ .class
+SHA-256-Digest: Fa+8vXMSxBBSDvYU3KEr/rcEuA/jWzp0SUvGdZqcd+U=
+
+Name: org/conscrypt/BufferUtils.class
+SHA-256-Digest: gFfN1vUbIwqVniMxGvdM+MxS4AjBKqKsSZle8n+yDeY=
+
+Name: com/android/apksig/ApkVerifier$Result$SourceStampInfo$SourceStampV
+ erificationStatus.class
+SHA-256-Digest: cpJ3qYvhtdiPIYbyktsp6AIo/BUJsWIEc8nbGwabYg8=
+
+Name: com/android/apksig/internal/util/ChainedDataSource.class
+SHA-256-Digest: tSjF2RxoNlxxFhnug6zcaO2Kx7OuwJvgqwLyW0Ua8Eo=
+
+Name: org/conscrypt/ByteArray.class
+SHA-256-Digest: Uz6vtLcKviTibW5BwxmYPa5JAbvLqvuawCr8B0xIvSk=
+
+Name: org/conscrypt/Conscrypt.class
+SHA-256-Digest: 13BWtE2Q2/zWGUzWVdvv8D24+3bCTY6DoMx3LgqBFtE=
+
+Name: at/favre/tools/apksigner/signing/ZipAlignExecutor.class
+SHA-256-Digest: LRvg8olUYIb3bTvJxLqJsMs5kRONMUqRpWgf+yfJ/LM=
+
+Name: at/favre/tools/apksigner/signing/CertHashChecker.class
+SHA-256-Digest: j8Qq33vRa0QuY1VBOeAAgt5dATMWfX4/QS730dO5Zh4=
+
+Name: at/favre/tools/apksigner/ui/MultiKeystoreParser.class
+SHA-256-Digest: FfpOfbbsIvTc1ePiFgjyxWfC5nftbuBlIkLrcrpJE/E=
+
+Name: com/android/apksig/util/RunnablesProvider.class
+SHA-256-Digest: huuGbo8DcqF3RuY0VHQmtJftGTZslP3vxTCIdWhxBtI=
+
+Name: org/conscrypt/EmptyArray.class
+SHA-256-Digest: r5fZHKycYcOTbtdVpwKGhIEnJx+bLcuF9yiDZLeyRQE=
+
+Name: org/conscrypt/OkHostnameVerifier.class
+SHA-256-Digest: oT15BnP0XJipDWfvQut0DX4inkKc7B415ZaJlh74684=
+
+Name: com/android/apksig/internal/apk/stamp/V1SourceStampSigner.class
+SHA-256-Digest: YavbTlT1T81R9JDMyIrC/kB0oqhmmdRPjNM+W71lGQE=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$1.class
+SHA-256-Digest: PcGzw91Ijk/6Mfi7eZwNTOQHkmarv/uXBVYQ/p2B6bg=
+
+Name: com/android/apksig/internal/apk/v4/V4SchemeVerifier.class
+SHA-256-Digest: UJhQmr7II5v+pYFWgs8FC9E+9xjP2px9vEIF39IeoN8=
+
+Name: org/conscrypt/EvpMdRef$MD5.class
+SHA-256-Digest: YnLA+J64orSSrK4bcfk/IR7+qzGokSp/I6cLv/lrPoE=
+
+Name: com/android/apksig/internal/util/ByteBufferSink.class
+SHA-256-Digest: SITgHwf7DbNltReJ+bRxe1H6HiUmylufG2OyI5Nq76M=
+
+Name: org/conscrypt/OpenSSLSignature$1.class
+SHA-256-Digest: ZriEbHAFURczyX3yN3TV4VNuLtgnBVG/B1gg6k80NXI=
+
+Name: com/android/apksig/DefaultApkSignerEngine$GetJarEntryDataRequest.c
+ lass
+SHA-256-Digest: huYe5GxhzB+ayk0cep3paRcvzoAimUQ5XGu7+pNg7/c=
+
+Name: com/android/apksig/internal/x509/TBSCertificate.class
+SHA-256-Digest: aHszzGFVxtUwUIXWmF3hjEj9rp0gdd4BluogUdKqV5U=
+
+Name: org/conscrypt/NativeRef$EC_GROUP.class
+SHA-256-Digest: 5gC6qdhgopbStOQ8h3DyokLONBR5xzysxW98K0UR1U4=
+
+Name: com/android/apksig/util/RunnablesExecutor$1.class
+SHA-256-Digest: HwcxP90HPfSL38CbFiIOJferf6eH3Tq4N+4HwqO7qvQ=
+
+Name: at/favre/lib/bytes/BinaryToTextEncoding$Encoder.class
+SHA-256-Digest: hJKYI1pSAGAffPiASyFCYzhD+QoCJ5Ix/PxlQ7ddejU=
+
+Name: com/android/apksig/internal/apk/v4/V4Signature$SigningInfoBlock.cl
+ ass
+SHA-256-Digest: sibtjPEeIm/mvQdrBJ9AfJLtjCBUXXoxcTBSgA1BhAU=
+
+Name: org/conscrypt/HostProperties$OperatingSystem.class
+SHA-256-Digest: vmo9a9f2HvsVwxCkYi6bqGT62UAcwWuQn0/49idjs+w=
+
+Name: at/favre/lib/bytes/BytesTransformers$ChecksumTransformer$Mode.clas
+ s
+SHA-256-Digest: C7mwmoaSbw/GCkcG6ulJ/wQ61V7u8yPQL3xDLBdnEqk=
+
+Name: com/android/apksig/internal/asn1/Asn1DerEncoder$JavaToDerConverter
+ .class
+SHA-256-Digest: 4dc0iY7ZGPuN1PTSv8avCzf4jaHDB+Kqo3B1nfQRdaY=
+
+Name: org/apache/commons/cli/HelpFormatter.class
+SHA-256-Digest: 3ki32pl6KkZYDqdsz/SfYyXLYTxWDYQahvQIZQ1xyZk=
+
+Name: com/android/apksig/internal/apk/v4/V4Signature.class
+SHA-256-Digest: uRjeh5Hc3TdEz4HBMCdgtEhaFrzn282d50cxeo0k/ME=
+
+Name: com/android/apksigner/PasswordRetriever.class
+SHA-256-Digest: ytPxWvT/mtVrfC5GcviqzWKmONuU6GLmZHMH6+6nxnk=
+
+Name: com/android/apksig/DefaultApkSignerEngine$GetJarEntryDataDigestReq
+ uest.class
+SHA-256-Digest: nkxkRmHbzKc7Cq6RMyLEW8cOw6D9uTUYgJW6pkNIjsc=
+
+Name: com/android/apksig/apk/ApkUtils.class
+SHA-256-Digest: Zs+29WCXxTegnv47tBpCMZ75r9xghvLTHaj0PfQ6U3s=
+
+Name: org/conscrypt/GCMParameters.class
+SHA-256-Digest: Uh3vnBXsshk3yopXeb4BUFdlBiT0glC2tuHszDChOlU=
+
+Name: org/conscrypt/NativeSslSession$Impl.class
+SHA-256-Digest: 4gKYzK8YhbpOtAFpRLzgMkg+kngA3vjDJgiPT1nYkGw=
+
+Name: org/conscrypt/OpenSSLCipher$Mode.class
+SHA-256-Digest: r69mTUhIIX3gl4vXVaRDeOokcwAYTVI/wBNwGSh6OTM=
+
+Name: org/conscrypt/SSLNullSession.class
+SHA-256-Digest: oEMSyhFV4POT82RY7x2Bw0rwbU4MzBy0X60jkhUbNyU=
+
+Name: com/android/apksig/internal/pkcs7/Attribute.class
+SHA-256-Digest: KDAdVoq/gyIrcdWjbUL1oMnslmbc/cQfx6RN5KTnx+U=
+
+Name: at/favre/lib/bytes/Util$Validation.class
+SHA-256-Digest: feoCgpjlqt1K+VwaD5eu4vuHBB3k48oxkm/LF3jkSOE=
+
+Name: org/conscrypt/OpenSSLAeadCipherAES$GCM_SIV$AES_128.class
+SHA-256-Digest: 0QMzUeHTGOCaZGbdgnrtTWNt9c4a9Jyk3P948gedutg=
+
+Name: org/conscrypt/IvParameters$ChaCha20.class
+SHA-256-Digest: V2rfQGW0h/b2G5IS/gHjps0W6PBlOfQeE7I9KQAKvw8=
+
+Name: org/conscrypt/HandshakeListener.class
+SHA-256-Digest: XWhL5ymCIjj/HRc2nVXC/VanOZyUB0+8mSaUHdmXHkM=
+
+Name: com/android/apksig/internal/asn1/ber/BerEncoding$1.class
+SHA-256-Digest: srJjw/JmRcy2brlWKPcHTiny8sAE1iEb+RgvuEH0wL8=
+
+Name: com/android/apksig/internal/pkcs7/Pkcs7Constants.class
+SHA-256-Digest: +8URAu1VpKwiOtQwT0vLVtEEPaMHf+Yd6r2xOYcmFTc=
+
+Name: at/favre/tools/apksigner/signing/AndroidApkSignerVerify$Result.cla
+ ss
+SHA-256-Digest: dUQ7/oqCBaVRMz25UKoBe6d3LHdv64Wa9A7cK5tfXxM=
+
+Name: com/android/apksig/internal/x509/RSAPublicKey.class
+SHA-256-Digest: vm4hzxqREX7TcdUiFulKf0nPqi4UK4VIg+Jsyuvt8yA=
+
+Name: org/conscrypt/NativeCryptoJni$ErrorComparator.class
+SHA-256-Digest: xrG5D0O2Cgmvasqw0StCFdth9MukdLkAcutjg4WNXvA=
+
+Name: org/conscrypt/OpenSSLAeadCipherAES.class
+SHA-256-Digest: /ZTTCzKqYMLFeMQ4dIox6Q2IXBEy2Po+zSVu+yxCJ98=
+
+Name: org/apache/commons/cli/Option.class
+SHA-256-Digest: rC5YSKSiFkmmvUNnYsQ3XvU40+bgkVAVftJwnYhOmCM=
+
+Name: org/conscrypt/NativeRef$EVP_CIPHER_CTX.class
+SHA-256-Digest: ReABY3c1+3CHHhSKyhpY94aRHPJVqaHUGcaHCluq2kU=
+
+Name: com/android/apksig/ApkVerifier$ApkVerificationIssueAdapter.class
+SHA-256-Digest: eOBPk1tUGB1O+Q5VcbCTz+UhLvPUpPsjkRGfK1KGIMk=
+
+Name: com/android/apksig/internal/zip/CentralDirectoryRecord$ByLocalFile
+ HeaderOffsetComparator.class
+SHA-256-Digest: n/C48aMruWd9R7J1IuuOAgqGN3J1NQN8X6pUYrxzY78=
+
+Name: com/android/apksig/internal/util/FileChannelDataSource.class
+SHA-256-Digest: MJmh2SJCynojAWchyEO1hGU0pMfcrPgZeLtk59zLN5g=
+
+Name: org/conscrypt/OpenSSLSignature$MD5RSA.class
+SHA-256-Digest: YtfgsVyJJqdgG42OdhBlNB4Azwv4OqP4jtAlzKp5ETc=
+
+Name: org/apache/commons/cli/Util.class
+SHA-256-Digest: rcmBjUzbAkSq7XlUeoWzXhB/qyoZEJsizMichnm/Jmg=
+
+Name: com/android/apksig/apk/ApkUtils$CodenamesLazyInitializer.class
+SHA-256-Digest: rPXsTRTd3S6Nn1o2QyRSaQ7saHRrbXSPIWR0AybM7nE=
+
+Name: com/android/apksig/internal/util/OutputStreamDataSink.class
+SHA-256-Digest: yPaaMSBYj2EuK5E7u2Sp6pd9m0ZVAC/7s4OVEVkmPEE=
+
+Name: at/favre/lib/bytes/MutableBytes.class
+SHA-256-Digest: CZTodpvkwyZ4VhbChTbgxGx/bOr9iPBMfh+mhobd5Gg=
+
+Name: com/android/apksig/internal/asn1/ber/InputStreamBerDataValueReader
+ $RecordingInputStream.class
+SHA-256-Digest: pRewD/d7zzerfaKsRO6P1Yrz2yrFNJTNFBWq4wvH9Nk=
+
+Name: org/conscrypt/OpenSSLAeadCipherAES$GCM_SIV.class
+SHA-256-Digest: vXJYulLyr+xDL5MMdkzJYI28olkRkFa+zEViGOQHX7Y=
+
+Name: com/android/apksig/internal/apk/v3/V3SchemeVerifier.class
+SHA-256-Digest: 35LIjr9kmOfhkqT0XSdvEbtRkKSihEzLucxnEHbwFUs=
+
+Name: com/android/apksig/internal/jar/ManifestParser$Section.class
+SHA-256-Digest: 87HSnX4LvdkPSiYb3iVMuxuPqrBAq840MEP26v5q8VU=
+
+Name: at/favre/lib/bytes/BytesValidator$Length$Mode.class
+SHA-256-Digest: 0aKbVNHh30F4/iHknnmdwdlO2VpvMEIlARkkykvf2bE=
+
+Name: com/android/apksigner/SignerParams.class
+SHA-256-Digest: lkWvLLOrs3pClck6VWwhvvxm0T4dx2RB7F8abBu5cQ0=
+
+Name: org/conscrypt/ConscryptFileDescriptorSocket$1.class
+SHA-256-Digest: 6VWPL9ULW2aZNBYBrwxXjFxG+9+gtEw9tu53YuyLN2g=
+
+Name: org/conscrypt/OpenSSLEvpCipherDESEDE$1.class
+SHA-256-Digest: bYXaHUS1zqA59btVkBOSfH3Ajs7pcfH5ydKsgZBQIpA=
+
+Name: org/conscrypt/ct/DigitallySigned.class
+SHA-256-Digest: mgCR6erBdlUBNCMmvdZXGU0mLzhu+wUxc2mk1JTh0rw=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeSigner$OutputManifestFi
+ le.class
+SHA-256-Digest: L9WdBX3vHGMpi2oF9IJn8bzzQiVoa+T4W6evC4p4hYQ=
+
+Name: com/android/apksig/internal/apk/v3/V3SchemeSigner.class
+SHA-256-Digest: mrS0wVtC+0twiWhVrzeeI+Vs81QEzIeSRrkjsuFkrWA=
+
+Name: com/android/apksig/internal/asn1/Asn1DerEncoder.class
+SHA-256-Digest: uxdUWaOL9BuB+AASEHciwu118CEcgXSzyAcC9sludFk=
+
+Name: org/conscrypt/NativeLibraryLoader$2.class
+SHA-256-Digest: beMY9e7cJpJ9U5DL2Gf7ibMX6QM/Dz8dN1RuaP/m/GU=
+
+Name: org/conscrypt/OpenSSLMessageDigestJDK$1.class
+SHA-256-Digest: Ng+OK/R2K3v990JApzLC3tHHQOdUuNIJ+UhR5vf0StQ=
+
+Name: org/conscrypt/BufferAllocator.class
+SHA-256-Digest: iAkG2iqpBCywqg+7oOuw+o3IEvTtHLAE7p+QOgfD0Fg=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES$CBC$PKCS5Padding.class
+SHA-256-Digest: GtZ7E06TKU0mxQfMMYZoUOkk5q+CwiROuicIps6o9uA=
+
+Name: org/conscrypt/metrics/ReflexiveStatsEvent.class
+SHA-256-Digest: UbLeRzW2riDYCfBsb83tmZlZHalZ5+jYMRN7dMGpe3g=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeVerifier$NamedDigest.cl
+ ass
+SHA-256-Digest: 1iDC9WLYMAtxxHiBDy5GWsI2WaGFk9lWwegecfS+Fds=
+
+Name: org/conscrypt/NativeSsl.class
+SHA-256-Digest: /vkkWug1XiOyvNJDYFIjjtdsmdf/f4UJxf1F7pkRYoo=
+
+Name: at/favre/lib/bytes/BytesTransformer$MessageDigestTransformer.class
+SHA-256-Digest: bRwYwKqKDRM/LTAEdOc1wV/K5tRRN7/qGb4IS6UvheU=
+
+Name: com/android/apksig/internal/util/DelegatingX509Certificate.class
+SHA-256-Digest: bjh5hxaPBxguKqCaiokZYrH6h3uDVeNw3I7MbKolMeY=
+
+Name: org/conscrypt/OpenSSLCipherRSA$DirectRSA.class
+SHA-256-Digest: zquQwXM9Abhs+Y6IzJUKq7AX2oDqDFvJBXlMz4Frqjg=
+
+Name: org/conscrypt/metrics/ReflexiveStatsEvent$1.class
+SHA-256-Digest: PnAkDaJIT5BGkHPQCKYaQhNkwTC8LVYg4Zx4oOtbdQA=
+
+Name: com/android/apksig/ApkVerifier$Issue.class
+SHA-256-Digest: MtA75V741DUqOICtnGeBbZdxEAbWxs6c5F767VtkrvA=
+
+Name: at/favre/lib/bytes/Bytes$1.class
+SHA-256-Digest: mC6UOhk16Abp+z3pyOeRlOGL2s2A4AaCp9y4M8nsEeY=
+
+Name: com/android/apksig/ApkVerifier$Result$V4SchemeSignerInfo.class
+SHA-256-Digest: bWNFp3FrgCX7W99yZWOXG3cuRol/OrSS8e0YlKJgYvI=
+
+Name: com/android/apksigner/ParameterException.class
+SHA-256-Digest: PM59lXDTVqdUT+HpkDzKpeiZyWGa2GlgK+Wm0waX3yQ=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_128$ECB$PKCS5Padding.class
+SHA-256-Digest: I26iOP0x4gSuMck3cn8GYlPetvursa7AppcxEdKUIoo=
+
+Name: org/conscrypt/OpenSSLMac$HmacSHA512.class
+SHA-256-Digest: t1mA511dKMmIWwZ4WwSgObZO4vL6UyuLRoG9Uu8ELRo=
+
+Name: org/conscrypt/OpenSSLEvpCipherARC4.class
+SHA-256-Digest: yRW9ccPC04A1tE3OTSMg78EQZONbrzvT372YtNMrzLU=
+
+Name: org/conscrypt/PSKKeyManager.class
+SHA-256-Digest: 2N0LPWDCnrFSqtJ8L8jgcoK+OtXYpKdosS2T8fknfPg=
+
+Name: com/android/apksig/SourceStampVerifier$1.class
+SHA-256-Digest: ZpmWJEj8E9SxKkIOKxlR0kWzXd9QBss84y4tbnRYMBc=
+
+Name: org/conscrypt/OpenSSLCipherRSA$OAEP$SHA256.class
+SHA-256-Digest: JK9hFv/pp1m+9IBwFjRnvc0/6rW5yKN8+nW8YBHvdew=
+
+Name: com/android/apksig/ApkVerifier$ByteArray.class
+SHA-256-Digest: klQcLTiYwk6/SGzPnzmzqUB1Prx0bSX+z8AJsXKB454=
+
+Name: org/conscrypt/ct/DigitallySigned$SignatureAlgorithm.class
+SHA-256-Digest: hcbVKm7Iwl1ymRxdUJN4a97poGJVLiWNO28E65J7Uvo=
+
+Name: com/android/apksig/internal/apk/v3/V3SigningCertificateLineage.cla
+ ss
+SHA-256-Digest: XH4hAJz9cjDagunQcPVMdqTbWuVFxQXotdFD0Wne348=
+
+Name: at/favre/lib/bytes/BytesTransformer$BitWiseOperatorTransformer$Mod
+ e.class
+SHA-256-Digest: YeMoDrnEyqcHWxXunFZYz5bMLE7vKVy5ujsNNMcJvTI=
+
+Name: at/favre/tools/apksigner/SignTool.class
+SHA-256-Digest: n+daOBy/4uZfCb+3MbFdD03Q/laZ5Z3YQjcUE8UctmY=
+
+Name: com/android/apksig/internal/x509/AttributeTypeAndValue.class
+SHA-256-Digest: GBMEHWhpBGpqKkUC0ZUm+ljyPeaLabEzBuTQKOQogrU=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$ChunkDigests.
+ class
+SHA-256-Digest: FTTuXF2zXliAR9Cvh2Qd9H+lxsH+2UAoRzhcks00nDk=
+
+Name: org/conscrypt/KeyGeneratorImpl$ChaCha20.class
+SHA-256-Digest: YiOYc8bfnxk3gHCBbbTq0Ybzem9Y/knKHOlkFL+PSx4=
+
+Name: com/android/apksig/internal/x509/Extension.class
+SHA-256-Digest: w1Bbc/2F9or8aFWh/qtAJMN1fgswa4TPSrd3qQ9G6ME=
+
+Name: org/conscrypt/OpenSSLBaseDHKeyAgreement.class
+SHA-256-Digest: FMbuCtQKWFJ11d7lJ3f3xSqoBU3U33vIkvH98WoXLYo=
+
+Name: at/favre/lib/bytes/BytesTransformer$ResizeTransformer$Mode.class
+SHA-256-Digest: PfPF8cKhhiQbM7YQp0wfacJ1+ed1FwaznYiGmvV2Ltc=
+
+Name: com/android/apksig/internal/oid/OidConstants$OidToUserFriendlyName
+ Mapper.class
+SHA-256-Digest: 9Ki4nrwylkb8Qbtcs0FQEuc0YgiraKhguUMcfXvPKsU=
+
+Name: org/conscrypt/AbstractConscryptSocket.class
+SHA-256-Digest: //hsgaplAzl527k/6oh/1WTMQWDXqOO6bugiI4Y8CZY=
+
+Name: org/conscrypt/ct/CTConstants.class
+SHA-256-Digest: Bptti8+gsCXs/6SRheUJO6pEWdLSlVaJL3u/IObnuRQ=
+
+Name: com/android/apksigner/ApkSignerTool$1.class
+SHA-256-Digest: l+utypJi9xI4+/dlcOpONRssEgb0dO45ioW5pycr6cU=
+
+Name: org/conscrypt/OpenSSLX509CertificateFactory$2.class
+SHA-256-Digest: pBJCNsbVIdTWKoHVn+zj+hbmTjQN2F3PpO52EWDVAiM=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES$ECB.class
+SHA-256-Digest: lTcPZmAsYVq9ocUnSMiO94xPVWwC4mqPyYZxKLqBuVo=
+
+Name: at/favre/tools/apksigner/util/CmdUtil.class
+SHA-256-Digest: pZ31Kw6pxbe60jgM6CueB6u46W7P8qP/5dFC891hD6U=
+
+Name: org/apache/commons/cli/AmbiguousOptionException.class
+SHA-256-Digest: unXHOsvwKr5UhmqGiUcgMNEuO7kS9RhzErkGcFBca0Y=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES$ECB$NoPadding.class
+SHA-256-Digest: gBuPcNqNkhQqgHYK7Ra7qFz80MTvkF9gC9AvFmkQBSA=
+
+Name: com/android/apksig/internal/util/Pair.class
+SHA-256-Digest: AKY6MWgGq6vn7In0HZuEX+lthFNd55enWM23KpR5Isg=
+
+Name: com/android/apksig/util/DataSinks.class
+SHA-256-Digest: et3li82dfUsULr1183AjCchtpcyOrVj67cwt/ywgpOo=
+
+Name: org/conscrypt/IvParameters.class
+SHA-256-Digest: vVdDdcDtIWzrFOfwZlpUukWWN1pidfVPwCkGOoBhLV0=
+
+Name: org/conscrypt/OpenSSLContextImpl$TLSv1.class
+SHA-256-Digest: JJrz9znZIBwz1Z0Vgt6hqUW5wEYtYoJZjnRpQS5dd2w=
+
+Name: com/android/apksig/ApkVerifier$IssueWithParams.class
+SHA-256-Digest: HYsuy+7bXYtCiQPDZIuDpu6B5R9iIWR0R5EHvrn+bVY=
+
+Name: org/conscrypt/OpenSSLCipherRSA$OAEP$SHA512.class
+SHA-256-Digest: rWAAgZe3cN9Wojf+bLB8I3IedfCVzwy3n8pnU5nADTk=
+
+Name: org/apache/commons/cli/DefaultParser$1.class
+SHA-256-Digest: 2BReZEyRagwBDiW3Xyj6NumEEWRkDvSk+7x2QdMYYbA=
+
+Name: org/conscrypt/Java8PlatformUtil.class
+SHA-256-Digest: VjBYxrc5sg7UMbXL1clxB/5C/Xm61dHv3lFXcxSd8bk=
+
+Name: com/android/apksig/internal/apk/v1/DigestAlgorithm$StrengthCompara
+ tor.class
+SHA-256-Digest: UrRg6GpxKEIeHP5bPY4+DV+ggkkZ3fNmTBf+znwQeW4=
+
+Name: org/conscrypt/OpenSSLRandom.class
+SHA-256-Digest: SxItjsAeYQFIgLaaQZmXjgDHIRaSP2HBboiIq+O+u3g=
+
+Name: at/favre/lib/bytes/BinaryToTextEncoding$Hex.class
+SHA-256-Digest: YEGc4c2ZdtJSvq2den8ICv2H/09+dw1M2Cz0qFBKfPM=
+
+Name: org/conscrypt/OpenSSLSignature$SHA224RSA.class
+SHA-256-Digest: 3ne461zdnvPQ0kXmmQCaMq5R710exs+TzHSPT6mWpWI=
+
+Name: at/favre/lib/bytes/BytesTransformer$NegateTransformer.class
+SHA-256-Digest: J/S8MFAZtWLCYkHJjzJv5cDJ1SsyWrhwbcvbaLXT1ng=
+
+Name: com/android/apksig/internal/apk/stamp/SourceStampCertificateLineag
+ e.class
+SHA-256-Digest: nlEUt2zI2ey/uMg6QZSFqoOLYegrt/fesObBmRzwAtQ=
+
+Name: com/android/apksig/internal/apk/stamp/SourceStampConstants.class
+SHA-256-Digest: kmCT8HYUABJSrRql9vYafq1jnRcmG87IxUcQ9ssj+UA=
+
+Name: com/android/apksig/SigningCertificateLineage$1.class
+SHA-256-Digest: k9LgJkVZTFvAx+rYHaLYX8mJn/vTLABZHU0Fql3SE4Q=
+
+Name: org/conscrypt/OpenSSLAeadCipherAES$GCM_SIV$AES_256.class
+SHA-256-Digest: /SeJE0k0i8HcpAIT/kECYq9m8Q94qkIFY33AgU7otzY=
+
+Name: com/android/apksig/internal/util/ByteArrayDataSink.class
+SHA-256-Digest: QYBuLuTOHNJhhWbxrG1fiG7s7sYx07hjcLamKsgwlsM=
+
+Name: org/conscrypt/ct/SignedCertificateTimestamp$SignatureType.class
+SHA-256-Digest: FHBMOWlJpD+DROxF5ib+ZBs5Ja/do0qpDWZ8RNq31Zw=
+
+Name: com/android/apksig/ApkSignerEngine.class
+SHA-256-Digest: DHDHZqZJIaz9M++EkUF/YPGeeT0LtVSDp+tDueETDh4=
+
+Name: com/android/apksig/DefaultApkSignerEngine.class
+SHA-256-Digest: Ul+ZmXJIGS7dlf6LWehhYjwnTo/l/lNMCCU/jLhSKZk=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtilsLite$1.class
+SHA-256-Digest: MziPZ3XaCPMooEImKGwx9h+Y4M2FXleaojvMEgjgxPU=
+
+Name: com/android/apksig/internal/pkcs7/EncapsulatedContentInfo.class
+SHA-256-Digest: lbT1G3o7/Qx16M2ZAGcXER+NjR2/d/da6slL4yYMutM=
+
+Name: com/android/apksig/ApkSigner$OutputSizeAndDataOffset.class
+SHA-256-Digest: nGRSrlS9obAb+58iLYK/vJiL0Jnq8Da5oFm9/zJFvdU=
+
+Name: com/android/apksig/apk/MinSdkVersionException.class
+SHA-256-Digest: z4WrNHK5R/i0J3Z+jxKX2u837mw8h/OAwp1AvTKfGMQ=
+
+Name: com/android/apksig/internal/apk/v3/V3SchemeVerifier$1.class
+SHA-256-Digest: LzA6PclIl8E7jjzpmBr1N8w8WKEy+hmUt6mYAnIzlz0=
+
+Name: com/android/apksig/internal/asn1/ber/BerEncoding.class
+SHA-256-Digest: ALCpRkdiYk3CZJryoUkKOtqKNHHHxuxoQ5LBLbh3lMA=
+
+Name: org/conscrypt/EvpMdRef$SHA512.class
+SHA-256-Digest: A8DrCdh4f/fP2Y5XKagj1gd8CxoRHMHro5OOS4+zwVs=
+
+Name: org/conscrypt/Platform.class
+SHA-256-Digest: 31irmt2qapzKGFNueH5mlJCf2w7d59Z8NI93UxC+Hkk=
+
+Name: com/android/apksig/internal/apk/v2/V2SchemeSigner.class
+SHA-256-Digest: dtUdTRjbbj8SGWUdh0EjnKh9YxOC8ZvaRrRmMyI2v1M=
+
+Name: at/favre/lib/bytes/Bytes.class
+SHA-256-Digest: 3c1Hb9gkP2iKZR9hsD6/RDZkQLEyXuvb1Q4LgHZN5Ts=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_256$CTR.class
+SHA-256-Digest: r05FwADJUGYr3DvO5Ym+LYlhEHkP6Udk3kVX5Li+12Q=
+
+Name: org/apache/commons/cli/Option$1.class
+SHA-256-Digest: fwm5nXPjjrD4CQAlWMvWsJJ8at8cM3wqV5+ENd5fX+I=
+
+Name: com/android/apksig/ApkSignerEngine$InputJarEntryInstructions$Outpu
+ tPolicy.class
+SHA-256-Digest: LrsgtRVy6gIECc0vfWGl5hCR7PCUnsEfhs/UerUB0FI=
+
+Name: org/conscrypt/OpenSSLSignature$SHA512ECDSA.class
+SHA-256-Digest: l/kYazv1PxCgBbhmjqodnAkRiM09WnSOlO6um5zgBK4=
+
+Name: at/favre/lib/bytes/Util$BytesIterator.class
+SHA-256-Digest: 7wSB/siamMaX31bbLNvL+Nsir05iFmfdrzQgtytrKcU=
+
+Name: org/conscrypt/AllocatedBuffer$1.class
+SHA-256-Digest: pMc45npEjo117hGLMcDdEqOOTCvheggFknrPacfP9ws=
+
+Name: org/conscrypt/ct/CTPolicy.class
+SHA-256-Digest: fiUsZXM95DKktaWGgjth43hGX0ta11Js6dkKkUvas0o=
+
+Name: org/conscrypt/DuckTypedPSKKeyManager.class
+SHA-256-Digest: dU5i1Wl5iG8y7S2PkdXQ4xWlPs1pVlFvv0WMw09V+0k=
+
+Name: META-INF/LICENSE.txt
+SHA-256-Digest: 7L8CWk8In+0L1IzsjrZYvENrjojcFRZCryWG4FRmyGo=
+
+Name: com/android/apksig/Hints$PatternWithRange.class
+SHA-256-Digest: OrKTANBiXTP7CBZ4Yw8NwILHzyOH1G3wLEA9u548mo4=
+
+Name: at/favre/lib/bytes/BytesValidator$IdenticalContent$Mode.class
+SHA-256-Digest: Hn1SvVkiHiSEWY5B8Zq5IBByowJJM78CcXjYtMBR6Qs=
+
+Name: com/android/apksig/internal/util/GuaranteedEncodedFormX509Certific
+ ate.class
+SHA-256-Digest: mXWl2dVAmzcvh9p2soiKN8A39oKC4z0K9LRC1VpAjOM=
+
+Name: org/conscrypt/ct/DigitallySigned$HashAlgorithm.class
+SHA-256-Digest: OL0kLTyn1NErVaJcvGJbiuvVpa1AfJlddGxOm/qWIvc=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_256$CBC$PKCS5Padding.class
+SHA-256-Digest: e7krXDpBS/WFVuxhBMCJtkHGyT58Wg+NgIkfUf8svVk=
+
+Name: at/favre/lib/bytes/ReadOnlyBytes.class
+SHA-256-Digest: 2F6wD3sQBY6txQsbaVT7vgSE3IdtjtOLFCA66XwhyP8=
+
+Name: com/android/apksig/ApkSigner$SignerConfig$Builder.class
+SHA-256-Digest: D+6X7jeaOSV/haCPawYvmwbPZ3/MSwcCKHobgZXD0zo=
+
+Name: org/conscrypt/NativeCrypto$Range.class
+SHA-256-Digest: YpEJ/ycyMvAGxK8cuce7oCOdFJt4dTL5+j49QeAIgeo=
+
+Name: com/android/apksig/internal/apk/v2/V2SchemeSigner$V2SignatureSchem
+ eBlock$SignedData.class
+SHA-256-Digest: XpxTYwAUN00HPC+UUSLa85+0AoRpOlotZVIKO53tWW4=
+
+Name: com/android/apksig/SigningCertificateLineage$SignerConfig$Builder.
+ class
+SHA-256-Digest: nwpUm4+C7Fe78NPLaMx/ZFga7hQVTI1Bs9Bap4ldtSA=
+
+Name: com/android/apksig/internal/apk/stamp/V2SourceStampSigner$SourceSt
+ ampBlock.class
+SHA-256-Digest: TypY90yI7zG/kyW44p7MDRtt5KhOA4FHJ/9GXRNdrAs=
+
+Name: at/favre/lib/bytes/BytesTransformer$ReverseTransformer.class
+SHA-256-Digest: j620mFWQqb2Noj8jsC8sAqEqAZqa6tr0/YNt+mO9LUQ=
+
+Name: org/conscrypt/OpenSSLEvpCipherDESEDE.class
+SHA-256-Digest: 3Cts8PaCjkbGU4M0FmNfC2S/fFG3G/hFpJgNr4urNFo=
+
+Name: com/android/apksig/internal/x509/Validity.class
+SHA-256-Digest: XKb7UvCqUrfqUhABXPmC5jFPEpKDrEjOYqPAae0PVnk=
+
+Name: org/conscrypt/CertBlocklist.class
+SHA-256-Digest: m022YIAwhYqaHckcPj0di6MWcXA0/QG2+dez9U0qbWM=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_128$CBC$NoPadding.class
+SHA-256-Digest: BfG2OehThc5RlX28jrDGKGm22jWG1AVSiU9sxw3Bd70=
+
+Name: org/conscrypt/OpenSSLX25519PrivateKey.class
+SHA-256-Digest: mXc/yghHiG3biWtTptEZbWM+h9R73ZZ+CwjKM+fccQQ=
+
+Name: at/favre/lib/bytes/BaseEncoding$Alphabet.class
+SHA-256-Digest: mRR40VbB7Aq1NusGTQyx0pwPHfx4f4SsausEwn9ISa8=
+
+Name: org/conscrypt/metrics/ReflexiveStatsEvent$Builder.class
+SHA-256-Digest: noXtFJPhUoGOHyXIoCvpKCf7lu1GhLLWwrsFvvIDUXo=
+
+Name: org/conscrypt/TrustManagerImpl.class
+SHA-256-Digest: oXJKDSI6UrdaH0PUjFU2iP2WPToK/rQqGrIWeHi5Pqs=
+
+Name: at/favre/lib/bytes/Util$File.class
+SHA-256-Digest: qHcWzG3zjQsiE5/SEprwuYkOKevUXiho3ADGoxTR2vc=
+
+Name: org/conscrypt/ct/SignedCertificateTimestamp.class
+SHA-256-Digest: yLP4dfucqGVllnog4UY90vNDBXFn3X9BB+uGOsb8jJw=
+
+Name: at/favre/lib/bytes/BytesTransformers$GzipCompressor.class
+SHA-256-Digest: UrXUs4aA/e0nK91+4H6iKoL3a8CRpuOy5zSTO37dLC0=
+
+Name: at/favre/lib/bytes/BytesValidator$PrePostFix.class
+SHA-256-Digest: WtgXmbM305Msf96uU7gTDNhH9n2wzC54LB31b3X7YxE=
+
+Name: org/conscrypt/SSLServerSessionCache.class
+SHA-256-Digest: nhaufryTASNucZ4jz3h7IHPFsZpSecb0XOXCCKJDkes=
+
+Name: org/conscrypt/AbstractSessionContext.class
+SHA-256-Digest: RHJJZx3u8hEEgQZ9aHgdXIH1IuaYKaBnYYWk+U9uaT4=
+
+Name: com/android/apksig/internal/asn1/Asn1BerParser$Asn1UnexpectedTagEx
+ ception.class
+SHA-256-Digest: L2ZZlJCRYTIe28BNad4/YZKlG1KBbvFH+wGGWUJ2JoI=
+
+Name: com/android/apksig/internal/util/RandomAccessFileDataSink.class
+SHA-256-Digest: TLjwS7dD5Y88eIRIPtNBDpE+UJn5ICSDw3bJ+vaSOvM=
+
+Name: com/android/apksig/internal/zip/CentralDirectoryRecord.class
+SHA-256-Digest: iMD1yJ9FQ649kl9BErc4xr1+ZAl8lllQDCVljGJeH+M=
+
+Name: org/conscrypt/AddressUtils.class
+SHA-256-Digest: Za+fEVOAClqrYlSwXl7EcP6gdsAYVuHLn82F8ODnh2k=
+
+Name: com/android/apksig/SourceStampVerifier$Builder.class
+SHA-256-Digest: RCk2pRKhmrUwJOK3vjUbUMkZtTtPF3kyd77T4MRFz48=
+
+Name: com/android/apksig/util/DataSources.class
+SHA-256-Digest: 9l6/nmv+pGSRMgvbNSRxQnN+Hqt8765ANMJ70St7bw8=
+
+Name: org/conscrypt/OpenSSLSignature$SHA512RSAPSS.class
+SHA-256-Digest: QLyZnpddsz/aL5IbcSCwOXBQ5gn8WJhy5wtlNf/JuVY=
+
+Name: org/conscrypt/ct/VerifiedSCT$Status.class
+SHA-256-Digest: NEE4J0FWmu6R5M0weCmOzOTdnHwXVzl6+Dh7/5BBqu0=
+
+Name: at/favre/tools/apksigner/signing/SigningConfig.class
+SHA-256-Digest: idnNkQNrrMAmWuJjMfy1JvvEif+cmTPOeozPNELgrjg=
+
+Name: at/favre/lib/bytes/BytesTransformer$1.class
+SHA-256-Digest: 0GG18i0KyE5y7BIi9E7b1g5n+x+JC2u4TyxznBJwFNE=
+
+Name: org/conscrypt/CertificatePriorityComparator.class
+SHA-256-Digest: Qjms7EVIltafW+a7+7jS+R9QA1G5JIFHaBdErJ169Bc=
+
+Name: org/conscrypt/OpenSSLECKeyPairGenerator.class
+SHA-256-Digest: ScZCAhEkQQ1poZwrzzj1vGIIcwCoVhR7l2NxjimmEMs=
+
+Name: org/conscrypt/OpenSSLRSAPrivateKey.class
+SHA-256-Digest: OAlmnDGEeDzyWz8VNvD5w7adVHceIxntorb2fn3YJws=
+
+Name: at/favre/lib/bytes/BytesTransformer$CopyTransformer.class
+SHA-256-Digest: 63AgFJe0D86bw2EL726RIb3EE2mE5JlSXine+7GMarY=
+
+Name: org/conscrypt/OpenSSLEvpCipher.class
+SHA-256-Digest: PO6BCQDdXRPL8psRR6AOwJw0OJOOaN+x+2gjHNJdmUk=
+
+Name: org/conscrypt/ConscryptEngineSocket$SSLInputStream.class
+SHA-256-Digest: 8ijTxY0IIpL47/lc3V5HKCEDDcvBfWhv9UiTIRDPpVA=
+
+Name: org/conscrypt/NativeRef$HMAC_CTX.class
+SHA-256-Digest: Z69tJdcmDEnrwzWvWnvisXBkFGK0ZLh9OMeXNdBcSpo=
+
+Name: org/conscrypt/NativeRef$EVP_MD_CTX.class
+SHA-256-Digest: lO3Q5CSdUCtJAYFpRhVDsvfNXtvgTvM6x+nhHgyv3jk=
+
+Name: org/conscrypt/SSLClientSessionCache.class
+SHA-256-Digest: 6JSAX5xE6x8q2RU7Lc7H9P7YxYe71eLEgdm3v66Zxl0=
+
+Name: org/conscrypt/PeerInfoProvider.class
+SHA-256-Digest: DsA0jE0NNdSIH16q+QsFGnqXwK85GszEu7wIp88mLpA=
+
+Name: at/favre/lib/bytes/BinaryToTextEncoding$EncoderDecoder.class
+SHA-256-Digest: 4p+YzXZbPqmPxJ3gbs/sdMl5q/oa6yZXlvyuuew3lE0=
+
+Name: org/conscrypt/ConscryptSession.class
+SHA-256-Digest: IrFtNqDxQvZx2ehAVgnkhRI1IZjYTwxxwVTJvPnc5/w=
+
+Name: org/conscrypt/ClientSessionContext$HostAndPort.class
+SHA-256-Digest: u0aKD/OoR/+E0+C9al3QRKbRrIZyXBOGfJZRDsdOk1I=
+
+Name: com/android/apksig/DefaultApkSignerEngine$Builder.class
+SHA-256-Digest: mzIstP3xEB8f4u9ZL2+IsyOMRWpxN1IfHNYK8OnphuE=
+
+Name: org/apache/commons/cli/MissingArgumentException.class
+SHA-256-Digest: APrF5nLbKnDjporSEG8jO4ws6tiFmeP1sbk0P0t2Fv0=
+
+Name: com/android/apksig/internal/x509/Certificate.class
+SHA-256-Digest: H1qwBJqdNmddvoAebgAc3WXkKyOMk8yQqm4hy9A4rQ8=
+
+Name: org/conscrypt/metrics/ReflexiveStatsLog.class
+SHA-256-Digest: Et0jYVsumEPMcKTZv74SP2F9UheyfVqNlAJDsQHOY/o=
+
+Name: org/conscrypt/OpenSSLMac$Hmac.class
+SHA-256-Digest: o0AdpR/I1Xby187WeJlgNmfQgyoVjeAR7LCi8muZT8I=
+
+Name: org/conscrypt/OpenSSLMac$1.class
+SHA-256-Digest: OroVz9DfFc1Sfd5lMF05UqlkHuJl4sdv1MkW2e0fj+s=
+
+Name: com/android/apksig/DefaultApkSignerEngine$OutputJarSignatureReques
+ tImpl.class
+SHA-256-Digest: 3BVzVnfwKEZMIQlZYMwKwrYAuJ1Qn2z1aUSuTm7Cn5I=
+
+Name: org/conscrypt/TrustManagerFactoryImpl.class
+SHA-256-Digest: 0m3xt7ZiGzrqtarrCje7tdF40ocg5CesLvqYtZ7qg4Y=
+
+Name: com/android/apksig/DefaultApkSignerEngine$1.class
+SHA-256-Digest: aXDDvV97HKxLh4yjqDz81fTrkgTGkAr9UBRRapdKBFY=
+
+Name: org/conscrypt/NativeRef.class
+SHA-256-Digest: OlHO5FsAIEpQ86JWEU2djP8PGdpAOr27LWsX1wMZKUo=
+
+Name: org/conscrypt/OpenSSLMac$HmacSHA224.class
+SHA-256-Digest: 1/rMp/Uygx2YoUiMHc6Dgb+HJtRJmCQxC14qqnJ2Urk=
+
+Name: com/android/apksig/DefaultApkSignerEngine$SignerConfig$Builder.cla
+ ss
+SHA-256-Digest: diOgqxPQVVU85JvV0hbf4Z/GlTpVryHDvu6q1n6YbrQ=
+
+Name: com/android/apksig/apk/ApkUtils$ApkSigningBlock.class
+SHA-256-Digest: 3nm065tJ6p/D1nH+kwa6chk/0So7pz+O/PdkkKRUZeI=
+
+Name: org/conscrypt/PeerInfoProvider$2.class
+SHA-256-Digest: 4hlWSdlthHO5EnkzBfCC7xbtgRvez4CaDEC3B3LouU4=
+
+Name: at/favre/lib/bytes/MutableBytes$Factory.class
+SHA-256-Digest: n7jUEQ0AQF+BW1xKCIPXvk/I1Z6oLhncoaqoLtCQoGU=
+
+Name: com/android/apksig/DefaultApkSignerEngine$CompoundInspectJarEntryR
+ equest.class
+SHA-256-Digest: UXaWQ26d0LOzrMSELi5YyeoRd7y4drPx5KcaNi8Fwwc=
+
+Name: org/conscrypt/NativeRef$EVP_PKEY_CTX.class
+SHA-256-Digest: J64bbwWqT3JjBBSftt1bcMbZIYd4uLYAEuNhk2/uPnw=
+
+Name: org/conscrypt/OpenSSLX25519Key.class
+SHA-256-Digest: PlE0dtCiaRbUR5oxuICYVcqbR+X89Ge+0AlpcocTrcY=
+
+Name: at/favre/lib/bytes/BytesValidator$1.class
+SHA-256-Digest: tISvFhLk1spAQM9x4YAOe9z4P1/PsmAr6LKJewIYIl0=
+
+Name: com/android/apksig/ApkSignerEngine$OutputApkSigningBlockRequest2.c
+ lass
+SHA-256-Digest: WE2eN5tnolIHHGF67D/ugsyCDHiqMP4VRkjH3T8bEGA=
+
+Name: com/android/apksig/internal/apk/v4/V4Signature$HashingInfo.class
+SHA-256-Digest: d4bvEV7z42SWgSRBiNyLmp+DkKbyi6WaDK/R5XpjCXY=
+
+Name: com/android/apksig/Constants.class
+SHA-256-Digest: JUuws5fK2m+/9r3pCYYQHVi+exEspBoLRi9CgX+i17A=
+
+Name: org/conscrypt/NativeSslSession.class
+SHA-256-Digest: PL4kUsmTCbz7lNProjjLMBbLl+e7/Ro01v3+A5muAe4=
+
+Name: org/conscrypt/OpenSSLServerSocketFactoryImpl.class
+SHA-256-Digest: giV28S6FVFgoOq27NPNeOoIVUUvBXZ1moJwo9dkX26Q=
+
+Name: com/android/apksig/ApkVerifier.class
+SHA-256-Digest: OqkN9Cqvo1v0N4miuayAdt+9TA1iLh8b+5kVFTbSR58=
+
+Name: com/android/apksig/apk/ApkFormatException.class
+SHA-256-Digest: nyO1HXTrXGd1kY0/LpzqH3jfSPTL7+O26W8iQpiZvO8=
+
+Name: com/android/apksig/apk/ApkSigningBlockNotFoundException.class
+SHA-256-Digest: 7WRP5FFmXGjAxlKFRcu2ZpxsxDrcQpBG+AQVdc8WX8o=
+
+Name: com/android/apksig/internal/apk/SignatureNotFoundException.class
+SHA-256-Digest: d4Dt/ysZdtG/llCqMjB6be4URbfh5uDaJol4H8DM1Ks=
+
+Name: org/conscrypt/OpenSSLX509CertificateFactory$Parser.class
+SHA-256-Digest: pUGaIt0zt8hzYYMoeEQHyyqyaj8xMbg4GQdwkzLRxOo=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeVerifier.class
+SHA-256-Digest: YdPcUrae1wWDAovnEe4KYkov8b2GG8FI00EEwGR70jg=
+
+Name: com/android/apksig/SourceStampVerifier$Result$SignerInfo.class
+SHA-256-Digest: Ok1aq6Rv4rC8J0vfqiuQUvqIMf/3air1I7p668NQSN4=
+
+Name: com/android/apksig/ApkVerifier$Result.class
+SHA-256-Digest: bVAMpB6l83ZtWAW+J7dGHs0n6ZWipkG5uxdAVTDdMFM=
+
+Name: com/android/apksig/internal/asn1/Asn1BerParser$AnnotatedField.clas
+ s
+SHA-256-Digest: VMf6Tx6dOX4qcctSkaeof/HjKRzG2vruuVxFN8WtSlE=
+
+Name: com/android/apksig/internal/util/InclusiveIntRange.class
+SHA-256-Digest: kFtUqTdA82ccvtY+DNIabTjG5mYM8RkcaBhOFp1+Znw=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$SigningScheme
+ BlockAndDigests.class
+SHA-256-Digest: hzEt08fvUdu/yj9SxdpNlh4TGTWvVhmKdWtO2ck+qxk=
+
+Name: org/conscrypt/ConscryptEngineSocket$SSLOutputStream.class
+SHA-256-Digest: aX612/lxCcZhBhVroQtzZPIEFotWr7uD9u6szZQzVBs=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$Result.class
+SHA-256-Digest: tBa0KrqxVcVu+4Zx9uwnb2TGHLHoX2l+lsbSI18fN9o=
+
+Name: com/android/apksig/internal/apk/v3/V3SchemeVerifier$Builder.class
+SHA-256-Digest: RB8FO3M+Ri1KvEMgyxL2aZ5Xyyka3oWwl0YebCtEyQo=
+
+Name: org/conscrypt/PeerInfoProvider$1.class
+SHA-256-Digest: ww532dcYjXzODLaYfKDw8Usm7C16fouvClQUg2OiqIA=
+
+Name: at/favre/tools/apksigner/signing/SigningConfig$KeystoreLocation.cl
+ ass
+SHA-256-Digest: 0xZ4N3BbwU05XZBGxOrhyBMnzEVAg9cDs9n0+3hrnyA=
+
+Name: com/android/apksig/internal/util/VerityTreeBuilder.class
+SHA-256-Digest: 70Wfj/I72FNfC3HjNEl70jO+Z1qkj5OqWieXDWEb9LQ=
+
+Name: org/conscrypt/OpenSSLX509CertificateFactory.class
+SHA-256-Digest: xjweTAEuOHQU+Mrait3boOVLpMRK0XkrOh03QVTtdek=
+
+Name: org/conscrypt/OpenSSLECKeyFactory.class
+SHA-256-Digest: HJkrqIndIS9WRygNRE3aTk72r0CwWkkf1/1zrRQxojc=
+
+Name: com/android/apksig/internal/asn1/Asn1DecodingException.class
+SHA-256-Digest: TEjwdIv4IshjjWCcarUex1yAXrcaKPhew18ECvaDRIk=
+
+Name: at/favre/lib/bytes/Util$Obj.class
+SHA-256-Digest: fJvqnuWc+io5bKO4AiXc3JcfSVBfyyCxHhvS0x+jscw=
+
+Name: org/conscrypt/OpenSSLAeadCipherAES$GCM$AES_256.class
+SHA-256-Digest: 78sp5QXBipnQMpEZHUjMHKubyheb+GedZUIK0dpSOzY=
+
+Name: org/conscrypt/OpenSSLSocketImpl.class
+SHA-256-Digest: 3P5NdsH93RlKNXpUmrXWrIvYQVqSf9JUtIsPKYP4+bc=
+
+Name: com/android/apksig/internal/util/ByteArrayDataSink$SliceDataSource
+ .class
+SHA-256-Digest: sNhPWhjlNV7gEoVp450mN9Yq2xhOG5rcxoAUN0J1efs=
+
+Name: com/android/apksig/internal/apk/AndroidBinXmlParser$Attribute.clas
+ s
+SHA-256-Digest: L14dGkpXkb7r5dL53P5r7m2u02X6PNkYUbrbAdhvETI=
+
+Name: org/conscrypt/OidData.class
+SHA-256-Digest: 36tuBwW0Pml8tGfuhyxBn2rUlPjkaprIqLrBb2poiZY=
+
+Name: com/android/apksig/internal/oid/OidConstants.class
+SHA-256-Digest: Zf/kcRniQT6glC8m03n9R0/GVIHioMWs0v7IMYPC/iU=
+
+Name: org/conscrypt/OpenSSLCipherRSA$OAEP$SHA224.class
+SHA-256-Digest: kTCFMqgyg1zwvmCv5PBOOipl2xJlQYHciS+ncu4WDBg=
+
+Name: org/conscrypt/OpenSSLSignature$RSAPSSPadding.class
+SHA-256-Digest: RmSb/0NVhqheoS7oMAMrGgkfiabMeJrx8yGE0ooH1Ko=
+
+Name: at/favre/lib/bytes/BytesTransformer$BitSwitchTransformer.class
+SHA-256-Digest: uCUiCxSCq05Jn84rDeyhM1gnfCZdB+AsPji/nJ3X87E=
+
+Name: org/conscrypt/KeyGeneratorImpl$HmacMD5.class
+SHA-256-Digest: /Cx39XDce99AqkOZv5Rd7N+5S53PsB+eyW/JAKGstqo=
+
+Name: org/conscrypt/NativeLibraryUtil.class
+SHA-256-Digest: S0lqeRwv67ww7Ldhbp0T/GnEm37fswoMi0uWDUXrHI4=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES_256$ECB$NoPadding.class
+SHA-256-Digest: ieZ3m9zAsahGzHzsmmNIRrwJ/F6HLC5hJywe2EYJhdU=
+
+Name: org/conscrypt/Java8EngineWrapper$1.class
+SHA-256-Digest: qJv420c15jszrssdsx4gjnDclqxk5kpumrBoBPO7X+w=
+
+Name: org/conscrypt/SSLParametersImpl.class
+SHA-256-Digest: hDIboj0vzOR798w5Ip5IaH4+97sziyB2z2d3jKH5hqY=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$ChunkSupplier
+ .class
+SHA-256-Digest: zlQlt0lTr7UCPcDTGTOYpiK96sPDkqZ/oKknh+oWumo=
+
+Name: org/conscrypt/ConscryptFileDescriptorSocket$SSLOutputStream.class
+SHA-256-Digest: LCCnU7cOh5wnJpWRkV1YJ5HYXIp3iJ2FEqUpcIRfOBg=
+
+Name: com/android/apksigner/OptionsParser$OptionsException.class
+SHA-256-Digest: 56AzORt0cZSTBlNB9ht/OxY0TW8lh4+2i2IvOiETz6E=
+
+Name: com/android/apksig/internal/apk/v4/V4SchemeSigner$SignerConfig.cla
+ ss
+SHA-256-Digest: iYlNenBoMhhGxCjbn7DHdhBCLKhW/zBMKi529bjOsh8=
+
+Name: binary-lib/linux-lib64-33_0_2/libc++.so
+SHA-256-Digest: T4nWfE0VJ7k0OJXIZQtg3ppNDU61TD58tlG5izHYWp8=
+
+Name: org/conscrypt/ArrayUtils.class
+SHA-256-Digest: BcDuvxzuTXtdqXOxSaGUnt3+hBUAO418j33ezKAbi7E=
+
+Name: org/conscrypt/OpenSSLCipherRSA$OAEP$SHA384.class
+SHA-256-Digest: jtv13UPkOYv+m3zpu6uCZ3OGP0hm0N+I6cZGuBzp7y0=
+
+Name: com/android/apksig/Hints$ByteRange.class
+SHA-256-Digest: /EThs/OmK0zQ5De1pgv92Ph33F26kltmr1Kegs3ShjQ=
+
+Name: com/android/apksig/internal/pkcs7/SignerIdentifier.class
+SHA-256-Digest: NSnsSzQdivcj/zPCMla5i9W3LfMT6IDxg07Suk7k5vU=
+
+Name: org/conscrypt/AllocatedBuffer.class
+SHA-256-Digest: XhWkV27j1nebTG+0dCmjR27bXrLQJvGpkPvYnXYUB7M=
+
+Name: org/conscrypt/OpenSSLSignature$SHA1RSA.class
+SHA-256-Digest: HMPt0jRfEJSbLZVuH3hvaQ6k9PAXxaBsb+5Nw8TQCUM=
+
+Name: org/conscrypt/HostProperties$1.class
+SHA-256-Digest: X+1a7hhbGtsORxDKLOcUy8anGaLv58Pr2s0bfYpt2BM=
+
+Name: org/conscrypt/OpenSSLSignature$SHA384RSA.class
+SHA-256-Digest: e0cwE4TpNHPDBeADJe5P/1gFuzMcE1JCQHI/4fq3a4E=
+
+Name: linux-zipalign-33_0_2
+SHA-256-Digest: 2Hqkix0MX1MW90IjRoJYknrXabjKyhWFLFffBluCPfU=
+
+Name: com/android/apksigner/ApkSignerTool.class
+SHA-256-Digest: amYjCC1i79xXi2WDlF7ZFBWxrCjgxSJtDeWwZfPEnoM=
+
+Name: org/conscrypt/NativeConstants.class
+SHA-256-Digest: AuFVwg1+nMsXpPg/KeTvi4tXCOEunDs5lwV7DyzOpyM=
+
+Name: org/conscrypt/OpenSSLSignature$SHA1ECDSA.class
+SHA-256-Digest: o2ggSA0oLro6GJEd+4A4mfAOn2K/kY3hbYOn3omztEo=
+
+Name: org/conscrypt/KeyGeneratorImpl$1.class
+SHA-256-Digest: /PBrju1Nxhap7yIjSGbdcDX/2mQoQIqtgrjb10s4FDQ=
+
+Name: com/android/apksig/internal/apk/v3/V3SchemeConstants.class
+SHA-256-Digest: BLqIkefR/UNlG1k8wLMbuC6SjIehECKUTHuGZGIMyxY=
+
+Name: com/android/apksig/internal/asn1/ber/BerDataValueFormatException.c
+ lass
+SHA-256-Digest: VtnmuxWjRCTx8iRdW7/vWK2age1xOCtabmfWrbFI4sE=
+
+Name: META-INF/maven/commons-cli/commons-cli/pom.properties
+SHA-256-Digest: qDCybpDVO0/5EdXUwBl7pWRBgylRIznvnefKwEoicaU=
+
+Name: org/conscrypt/OpenSSLMac$HmacMD5.class
+SHA-256-Digest: iu2vbPJvLMHmMTZn00e7PoNPs3QOFPWq70C00uKSQNs=
+
+Name: org/conscrypt/HostProperties$Architecture.class
+SHA-256-Digest: RZ9DEZ9AckwVXRNneCue2zGN7YZExfPswMsmj3iSdsw=
+
+Name: org/conscrypt/NativeCrypto.class
+SHA-256-Digest: jG7fJanHZ4SvqagRJOyDadazNIW6q0Xr2bwqx6G7Z8M=
+
+Name: org/apache/commons/cli/CommandLine$Builder.class
+SHA-256-Digest: +lDq9fKc9TiCqW10A3VLaj2wAq5nFXI4O5pK5vY1u64=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtilsLite.class
+SHA-256-Digest: J/Aop84uunLnPMC6QmhUF78ECFO+qFXLnbsezQToANo=
+
+Name: com/android/apksig/internal/asn1/Asn1TagClass.class
+SHA-256-Digest: ohlN9vfJpFM11wZaejmfkYZQb6nmmsGXuqWFCqUaWl4=
+
+Name: org/conscrypt/ExternalSession.class
+SHA-256-Digest: 2TkWJ0nfBh8Qs3d7mBl4+Dq6ulQ5Zwm7doFITA3HidU=
+
+Name: com/android/apksig/internal/apk/v2/V2SchemeVerifier.class
+SHA-256-Digest: IBlnDpJm+Ri2MJxjRpboTk5CEqtJdCkwg+qHqcrg2cw=
+
+Name: com/android/apksig/internal/apk/v1/DigestAlgorithm.class
+SHA-256-Digest: rfJxI7K3ND2m9ClezXfsm5oNJqoMrOkdVxTsCanxIsU=
+
+Name: com/android/apksig/internal/util/ByteArrayDataSink$1.class
+SHA-256-Digest: 43dDgsQi7YwMMWslPjigkaMWEjstpl8QKvRzZxQ3/9A=
+
+Name: com/android/apksig/internal/x509/Name.class
+SHA-256-Digest: QL9BBlRFRkpmF88VeM2gw8Uo2DE8FfTG2q+uqEqwjrM=
+
+Name: at/favre/lib/bytes/Util$Byte.class
+SHA-256-Digest: CS2UyEzvsVyJdqbjxP7FtcqdKDiRu2rItBN619IjrPU=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeVerifier$Signer.class
+SHA-256-Digest: hC6TLIih8PcTSWJY7oj2fIcuTct99WRiDdz/Tti17h8=
+
+Name: org/conscrypt/SSLUtils$SessionType.class
+SHA-256-Digest: 5cBzCVxNfhN+Ci6bkHfWs7auTg8v7s8Bd4OEKDH6Bb0=
+
+Name: com/android/apksig/internal/asn1/Asn1BerParser$1.class
+SHA-256-Digest: p34oqFtaIOg25ye6Hjq1CecBPMMlrZfC77DXMlzE3Gs=
+
+Name: org/conscrypt/Java8EngineWrapper.class
+SHA-256-Digest: eb85yOLFZSDoVlhMAcaO+cltZgjYg/YTc22qtwbY6ig=
+
+Name: org/conscrypt/KeyManagerFactoryImpl.class
+SHA-256-Digest: FtEdsFxiex3FPgAXPOBNzyPU865IX08bzSKPThyQaH4=
+
+Name: org/conscrypt/AbstractSessionContext$2.class
+SHA-256-Digest: Fcz+IhygUwVr3Kadhyaex5i87y+Ir4GikrNi8iS7Izg=
+
+Name: com/android/apksig/ApkVerificationIssue.class
+SHA-256-Digest: XOMMTKwHQeKL/BNsmYwksCJLtacca4iFfv28A/bMICg=
+
+Name: org/apache/commons/cli/DefaultParser.class
+SHA-256-Digest: 8Td1IhrtI/kRP3YU30Dl8P3Fa7o8RUDF9goXZdDftCI=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeConstants.class
+SHA-256-Digest: W8Pxg+VUyZ6U6xqCFdYwAI3PnDb+/m8Bh1opVCT+YfI=
+
+Name: com/android/apksig/internal/asn1/Asn1Type.class
+SHA-256-Digest: VcFYkYJM2qbLF8DFRPlpWRzGqnnQthb63J5V2rMJBhc=
+
+Name: com/android/apksig/internal/apk/stamp/V1SourceStampSigner$1.class
+SHA-256-Digest: HHj3h2Fe4AYwsuSvvpUccuaAxvmN3xSuPxlwUaExBcg=
+
+Name: org/conscrypt/OpenSSLCipherRSA$Raw.class
+SHA-256-Digest: /xX8h9TJR7WRgAsfCGpON8HbPm4CABuBY0ParDXeP6g=
+
+Name: com/android/apksig/ApkVerifier$Result$V3SchemeSignerInfo.class
+SHA-256-Digest: 22wsHBQC/0U5xD8w8RHaMl5H4UZuo03rIMaTrk5dsRM=
+
+Name: org/conscrypt/SSLParametersImpl$PSKCallbacks.class
+SHA-256-Digest: 0cXFhwqaXBl2aTIF5yeZKHclVFwsLZ2ZVgf86zzS2YQ=
+
+Name: at/favre/lib/bytes/BytesTransformer$BitWiseOperatorTransformer.cla
+ ss
+SHA-256-Digest: 3dEuyR7o6rLJ8MtKZlChy06YkZ2n5OGlUoqb4VDpMmQ=
+
+Name: org/conscrypt/CryptoUpcalls.class
+SHA-256-Digest: pb5yi24w6heX+t0+8fCdMDXOfQDNzsnNKuABj9zDA6Y=
+
+Name: org/conscrypt/OpenSSLKeyHolder.class
+SHA-256-Digest: +zkbZdRYsKTAJFpXwT01dOhP+UcLW78Hj67GNqqg5g0=
+
+Name: org/apache/commons/cli/OptionValidator.class
+SHA-256-Digest: gPZ57n8OS6Z2Qhwf47M16LrKLindWYH2C27J8SkvZ5s=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeVerifier$OctetStringCho
+ ice.class
+SHA-256-Digest: H4jhVlR/ILcItlZrGo3vnuVWTr38VWcCHKiYOv47ZUk=
+
+Name: com/android/apksig/internal/util/AndroidSdkVersion.class
+SHA-256-Digest: xBSGOfLcXTtTD+zDiyJOii6aw8FslHQcabGsQWVGQsU=
+
+Name: com/android/apksig/internal/zip/ZipUtils$DeflateResult.class
+SHA-256-Digest: 4G1XCf9QOXJucBFgXmjZspi3TYPaTX4ArJsdq2jDX64=
+
+Name: com/android/apksig/internal/apk/stamp/V2SourceStampVerifier.class
+SHA-256-Digest: NQ1EiBtQcly5XHLGlGnZnsOxIWhU/qDe4eJluPf4Fp8=
+
+Name: org/conscrypt/HostProperties$Architecture$1.class
+SHA-256-Digest: cusjwFLl5qzmWavDwblYx1kW0BaJPsnx6o40RujZY5g=
+
+Name: org/conscrypt/OpenSSLSignature$SHA224ECDSA.class
+SHA-256-Digest: +3g9w7C3BxNu/+8ZaHBv3bqfNcU1uIZTf39OR0Qa3bU=
+
+Name: com/android/apksig/SigningCertificateLineage$Builder.class
+SHA-256-Digest: 2m0c1z6p37Q+fQ1kDFKYAj0cwc5w3LWmS5W+Dh2eVoQ=
+
+Name: com/android/apksig/internal/apk/v1/V1SchemeSigner$SignerConfig.cla
+ ss
+SHA-256-Digest: Vi0Igdt58fiQqmhO8V2cY9E/s1H1YWAznU8W12eSABU=
+
+Name: org/conscrypt/Conscrypt$ProviderBuilder.class
+SHA-256-Digest: 4g2KvCst+hy+UEI7fPhyJXqZYzlC8BNUlSg0G4m2cF0=
+
+Name: com/android/apksig/internal/apk/AndroidBinXmlParser$StringPool.cla
+ ss
+SHA-256-Digest: IZGHwMde/ib4W6VbukeU+E43ZovNWPrNkuT6vleLQEs=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$ChunkDigester
+ .class
+SHA-256-Digest: xQQ2wWgYp6NuJqXGTX1aCOe9JJFQrJo+olM7Twv72lk=
+
+Name: org/conscrypt/ServerSessionContext.class
+SHA-256-Digest: ni4QrcNSot+uzvYAOTGAKAv5u6BnCLABmwOgjC4D90g=
+
+Name: com/android/apksig/internal/util/MessageDigestSink.class
+SHA-256-Digest: zAE60YygrFXRLhJM45KwaL6IWWvLMIEPQr6v578+YyI=
+
+Name: org/conscrypt/OpenSSLMessageDigestJDK$SHA224.class
+SHA-256-Digest: RS846A6zXAQY1XScuAmciMkok7TmLSbnX06+N4Js1NY=
+
+Name: com/android/apksigner/HexEncoding.class
+SHA-256-Digest: 3QCTEJmOabGU7Hu6VtceQ4PR9eLlOYdbqda9ve5V5Mc=
+
+Name: org/conscrypt/Platform$1.class
+SHA-256-Digest: 2tWlbuam4Sog9r7itsRbl86viepSv6RQ/BS/8MW7zsY=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$SupportedSign
+ ature.class
+SHA-256-Digest: KlJBYXaMj6/sG5NIZOwfSJV9UuW0jHHH4qyU8YQRuSU=
+
+Name: com/android/apksig/SigningCertificateLineage$SignerCapabilities$Bu
+ ilder.class
+SHA-256-Digest: 6fswAfejjkBBnOaZV8oPF4fUi+DmMWT7+Jh7QA5lx2A=
+
+Name: at/favre/tools/apksigner/util/CmdUtil$Result.class
+SHA-256-Digest: fSxcBgNLDyV8zbYNL0UgVXZJ/HqIAXJAyiyGDBNQU28=
+
+Name: com/android/apksig/internal/apk/v3/V3SchemeSigner$V3SignatureSchem
+ eBlock$Signer.class
+SHA-256-Digest: 91UNjkmWjojhvW6RYdB1sx8vKorlR/9EG0QnLoDQ06c=
+
+Name: com/android/apksig/internal/apk/stamp/SourceStampVerifier.class
+SHA-256-Digest: CLkJAYniURKJdfllUWKC8JXHMLYToRNF6IV9Zudjm0I=
+
+Name: org/conscrypt/ChainStrengthAnalyzer.class
+SHA-256-Digest: Dt2yL9huNP7VcMrkNjIGdMfk0pC4LemOghmHRviIyFI=
+
+Name: org/conscrypt/OpenSSLMessageDigestJDK$SHA384.class
+SHA-256-Digest: OJyKJdaHteMJxtot4NhX4DnsK69TRAlGqtZ76Iig4zY=
+
+Name: org/conscrypt/OpenSSLCipherRSA$OAEP.class
+SHA-256-Digest: QCUJSmwhOaDwTGCICA4JYSNNxzzgosvRO8nN3i33xRw=
+
+Name: org/conscrypt/ct/SerializationException.class
+SHA-256-Digest: MxpqtaH0m5EJIi+KUdT0Ku939pn9M8dtJ5e8G/DcScg=
+
+Name: at/favre/lib/bytes/BinaryToTextEncoding$BaseRadixNumber.class
+SHA-256-Digest: xbMffhVHwPoSkj9PEqEf00b90NKK8rCNo6bY0VSlFDY=
+
+Name: com/android/apksig/internal/asn1/Asn1BerParser$BerToJavaConverter.
+ class
+SHA-256-Digest: i8lOKaFzQ753YKjxw5t4dOTU7iozW0mkMgRpp7OGcnc=
+
+Name: org/conscrypt/AbstractConscryptSocket$1.class
+SHA-256-Digest: MEgj2YUQzoAuxvsj9pAfz3aCZKIJtSClsYTInzUl8Ow=
+
+Name: org/conscrypt/OpenSSLEvpCipherAES$AES.class
+SHA-256-Digest: 3VHByatkVOqoQ9ilzY82kg9CAR+gzd/pf4vdT9xFMz0=
+
+Name: com/android/apksig/internal/pkcs7/Pkcs7DecodingException.class
+SHA-256-Digest: 4/IFEXs9MhTomZTz2kgmThTQex4pJbG2Hy1ETXMrvZc=
+
+Name: org/conscrypt/EvpMdRef.class
+SHA-256-Digest: f5RBFqU1GgHQOSCKa6RPBuzctUR0t1THso3FbhvKFR0=
+
+Name: at/favre/tools/apksigner/ui/Arg$SignArgs.class
+SHA-256-Digest: uL1MPK6mFoDr+0/5vboWGzBvVRYVB9DJqYo2smai8ME=
+
+Name: at/favre/lib/bytes/ReadOnlyBytes$1.class
+SHA-256-Digest: 7Nt9XvSyJ2b0TyOKMWYAWeqBPe0ZG2f1iS+oVeFpcnY=
+
+Name: com/android/apksig/internal/apk/AndroidBinXmlParser$Chunk.class
+SHA-256-Digest: r4EXDOPAzDlPAMdKWagA0YXo2YdJ+hUf/F7X4tZu7pg=
+
+Name: org/conscrypt/AbstractSessionContext$1.class
+SHA-256-Digest: drIDYI61bLhbDryEV12mUvUOU0sJFSiH1syAp+aqIOk=
+
+Name: org/conscrypt/ShortBufferWithoutStackTraceException.class
+SHA-256-Digest: EldV9TgJyMkBb4PnvKYjF2PRVD1m21ZZqh7cnZJzglU=
+
+Name: org/conscrypt/NativeRef$SSL_SESSION.class
+SHA-256-Digest: ngl7WfWGKz22koW5vyW69LsQNcm91ZIupNM8SALizs8=
+
+Name: org/conscrypt/ct/CTVerifier.class
+SHA-256-Digest: xO+vq8z3oY/W2Far4SsWa6zUlX391iWOeNltxdToAk4=
+
+Name: com/android/apksig/internal/apk/ApkSigningBlockUtils$SignatureNotF
+ oundException.class
+SHA-256-Digest: ypNNGukgTNWG3zR0LHsbiY3OCJkylGYXRir0epRGPio=
+
+Name: at/favre/lib/bytes/BaseEncoding.class
+SHA-256-Digest: ZGYBzd4JJ6BsH6+ieH/v9C2GjOHiABMx3uvhcRVBLbg=
+
+Name: com/android/apksig/internal/util/TeeDataSink.class
+SHA-256-Digest: 1dSJSf3ux/9MTVcI8giLngkUa/Q5MRYynkEqIO2DZUA=
+

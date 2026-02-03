@@ -1,6 +1,6 @@
-# Apkifyit 🚀
+# DroidForge Studio 🚀
 
-**Apkifyit** is a professional, high-performance tool designed for converting ZIP files into signed and aligned APKs. Built with a focus on privacy and security, all processing is handled locally within the environment.
+**DroidForge Studio** is a professional, high-performance platform for turning DroidForge Studio bundles into signed and aligned APKs. It can compile source bundles into APKs (including WebView-based apps) when the Android SDK + Gradle are installed. Built with a focus on privacy and security, all processing is handled locally within the environment.
 
 🔗 **WEB UI Preview ** [https://curvy-taxis-say.lindy.site](https://curvy-taxis-say.lindy.site)
 
@@ -12,11 +12,13 @@
 - **Signature Verification**: Automatically extracts and displays the **SHA-256 hash** of the generated APK.
 - **Modern UI**: Clean, "calm and competent" interface with smooth animations and Light/Dark mode support.
 - **Drag-and-Drop**: Intuitive file handling with a full-screen drop overlay.
+- **WebView Bundles**: If your ZIP includes `web/index.html`, it will be bundled into the APK and loaded at runtime.
+- **Unified Studio**: The Studio UI now lives at `/` and the Build Engine UI at `/build`.
 
 ## 🔒 No keys ever leave local
 **Setup for zipaign does require temporary connection with api**
 
-Apkifyit is designed to be **completely self-contained**:
+DroidForge Studio is designed to be **completely self-contained**:
 
 1. **No External APIs**: Conversions run locally using bundled or system binaries.
 Noothing is uploaded, nothing leaves your mahcine.
@@ -28,18 +30,23 @@ removed after completion.
 
 ## 🛠 Local Setup (Strictly Offline)
 
-To run Apkifyit on your own machine:
+To run DroidForge Studio on your own machine:
+
+## 🔧 Environment Variables
+- `APKSIGNER_JAR` (preferred): Absolute path to `uber-apk-signer.jar`.
+- `APK_SIGNER_JAR` (fallback): Alternative variable name supported by the server.
 
 ### Prerequisites
 - **Node.js**: Version 18 or higher.
-- **Java (JDK)**: Version 11 or higher (required for APK signing).
-- **uber-apk-signer**: The project expects `uber-apk-signer.jar` to be available at the path specified in `app/api/convert/route.ts`.
+- **Java (JDK)**: Version 17 or higher (required for Gradle compile + APK signing).
+- **uber-apk-signer**: Set the JAR path via `APKSIGNER_JAR` (preferred) or `APK_SIGNER_JAR`, or place `uber-apk-signer.jar` one level above the repo root.
+- **Android SDK + Gradle (for bundle compilation)**: Set `ANDROID_HOME` or `ANDROID_SDK_ROOT`, and ensure `gradle` is on `PATH` (or set `GRADLE_HOME` / `GRADLE_CMD`).
 
 ### Installation
 1. Clone the repository:
    ```bash
    git clone <github.com/Nivekkb/apkifiyitl>
-   cd apkifyit-app
+   cd "DroidForge Studio"
    ```
 
 2. Install dependencies:
@@ -51,6 +58,8 @@ To run Apkifyit on your own machine:
 
 3. Start the development server:
    ```bash
+   # optional: set once in .env.local
+   # APKSIGNER_JAR=/absolute/path/to/uber-apk-signer.jar
    npm run dev
    ```
 
@@ -61,13 +70,13 @@ To run Apkifyit on your own machine:
 ### Vercel
 1. Push the code to a private GitHub repository.
 2. Connect the repository to Vercel.
-3. **Note**: Ensure the deployment environment has Java installed. You may need to use a custom build image or include the `uber-apk-signer.jar` and a portable JRE in your repository.
+3. **Note**: Ensure the deployment environment has Java installed. For bundle compilation, also provide Android SDK + Gradle in the runtime image.
 
 ## 🛠 Tech Stack
 - **Framework**: Next.js 14 (App Router)
 - **Styling**: Tailwind CSS + shadcn/ui
 - **Animations**: Framer Motion
-- **Backend**: Node.js + uber-apk-signer
+- **Backend**: Node.js + uber-apk-signer + Gradle (optional)
 - **Icons**: Lucide React
 
 ---

@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Apkifyit - ZIP to APK Converter",
-  description: "Convert ZIP files to signed APKs locally and securely.",
+  title: "Dayzero's Droid Forge Studio",
+  description: "No-code Android studio with local APK build service.",
 };
 
 export default function RootLayout({

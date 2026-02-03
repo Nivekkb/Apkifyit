@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.DroidForge" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#1F2937</item>
+        <item name="colorPrimaryDark">#111827</item>
+        <item name="colorAccent">#4F46E5</item>
+        <item name="android:statusBarColor">#111827</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+</resources>

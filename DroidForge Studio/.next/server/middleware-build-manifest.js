@@ -1,0 +1,43 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/085a0_next_dist_compiled_next-devtools_index_9c1e3480.js",
+      "static/chunks/085a0_next_dist_compiled_1393d066._.js",
+      "static/chunks/085a0_next_dist_shared_lib_05386628._.js",
+      "static/chunks/085a0_next_dist_client_026515ab._.js",
+      "static/chunks/085a0_next_dist_cdb65ff5._.js",
+      "static/chunks/085a0_next_app_8c1bb0b0.js",
+      "static/chunks/[next]_entry_page-loader_ts_db2fdf46._.js",
+      "static/chunks/085a0_react-dom_d09e2a30._.js",
+      "static/chunks/085a0_56763d8c._.js",
+      "static/chunks/[root-of-the-server]__75994532._.js",
+      "static/chunks/306bd_ayZero DroidForge Studio_DroidForge Studio_DroidForge Studio_pages__app_2da965e7._.js",
+      "static/chunks/8bdbd_ayZero DroidForge Studio_DroidForge Studio_DroidForge Studio_pages__app_db0ca56d._.js"
+    ],
+    "/_error": [
+      "static/chunks/085a0_next_dist_compiled_next-devtools_index_9c1e3480.js",
+      "static/chunks/085a0_next_dist_compiled_1393d066._.js",
+      "static/chunks/085a0_next_dist_shared_lib_24379fa7._.js",
+      "static/chunks/085a0_next_dist_client_026515ab._.js",
+      "static/chunks/085a0_next_dist_65d70434._.js",
+      "static/chunks/085a0_next_error_e2650974.js",
+      "static/chunks/[next]_entry_page-loader_ts_c33706a7._.js",
+      "static/chunks/085a0_react-dom_d09e2a30._.js",
+      "static/chunks/085a0_56763d8c._.js",
+      "static/chunks/[root-of-the-server]__cfcfbd3b._.js",
+      "static/chunks/8e27e_Zero DroidForge Studio_DroidForge Studio_DroidForge Studio_pages__error_2da965e7._.js",
+      "static/chunks/cdb91_Zero DroidForge Studio_DroidForge Studio_DroidForge Studio_pages__error_bc79c0ab._.js"
+    ]
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "ampFirstPages": []
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+,"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js",
+
+];

@@ -1,0 +1,27 @@
+#!/usr/bin/env sh
+
+# Minimal Gradle wrapper script
+DIR="$(cd "$(dirname "$0")" && pwd)"
+JAVA_EXEC="${JAVA_HOME:+$JAVA_HOME/bin/}java"
+
+if [ ! -x "${JAVA_EXEC}" ]; then
+  JAVA_EXEC="java"
+fi
+
+WRAPPER_JAR="$DIR/gradle/wrapper/gradle-wrapper.jar"
+PROPS="$DIR/gradle/wrapper/gradle-wrapper.properties"
+
+if [ ! -f "$WRAPPER_JAR" ]; then
+  # Download wrapper jar if missing
+  WRAPPER_URL="https://services.gradle.org/distributions/gradle-8.7-bin.zip"
+  TMP_DIR="$DIR/gradle/wrapper/tmp"
+  mkdir -p "$TMP_DIR"
+  curl -sSL "$WRAPPER_URL" -o "$TMP_DIR/gradle.zip"
+  (cd "$TMP_DIR" && unzip -q gradle.zip)
+  GRADLE_DIR=$(find "$TMP_DIR" -maxdepth 1 -type d -name "gradle-*")
+  if [ -n "$GRADLE_DIR" ]; then
+    cp "$GRADLE_DIR/lib/gradle-wrapper-8.7.jar" "$WRAPPER_JAR" 2>/dev/null || true
+  fi
+fi
+
+exec "$JAVA_EXEC" -classpath "$WRAPPER_JAR" org.gradle.wrapper.GradleWrapperMain "$@"
